@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.venv/
+data/
+checkpoints/
+outputs/run/
+outputs/smoke/
+outputs/*.log
+*.zip
+
+# outputs/gaps/ is deliberately NOT ignored: the A1, C3 and A3 runs finished on a local
+# GPU and shipping them means the resumable driver skips them on Kaggle, which only has
+# to run what is actually missing (C4, B3).

@@ -1,0 +1,12 @@
+# The frozen backbones come from elsewhere:
+#   DINOv2  -> torch.hub.load("facebookresearch/dinov2", ...) at first use, needs internet
+#   SAM2    -> pip install git+https://github.com/facebookresearch/sam2.git
+#              plus the sam2.1_hiera_large.pt checkpoint (see README)
+torch>=2.1
+torchvision
+numpy
+opencv-python
+scipy
+scikit-image
+pillow
+tqdm

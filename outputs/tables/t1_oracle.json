@@ -1,0 +1,8015 @@
+{
+  "summary": {
+    "n": 999,
+    "IoU": 69.40497900419157,
+    "Dice": 77.157984149809,
+    "dataset": "kvasir",
+    "subset": "all",
+    "method": "oracle",
+    "prompting": "-",
+    "fusion": "spf",
+    "rho": 2,
+    "self_refine": true,
+    "use_aug": true,
+    "n_support": 1,
+    "support": "cju85rkbnlo1c08503uxcpax1",
+    "support_idx": 850,
+    "prior_only": false,
+    "seconds": 399.4,
+    "tag": "t1_oracle"
+  },
+  "per_image": [
+    {
+      "name": "cju0qkwl35piu0993l0dewei2",
+      "iou": 0.3136233095581593,
+      "dice": 0.4774935208231762,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju0qoxqj9q6s0835b43399p4",
+      "iou": 0.29721318141735115,
+      "dice": 0.45823336622684074,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju0qx73cjw570799j4n5cjze",
+      "iou": 0.38146505223970656,
+      "dice": 0.5522616031744771,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju0roawvklrq0799vmjorwfv",
+      "iou": 0.637972114366396,
+      "dice": 0.7789779920803814,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju0rx1idathl0835detmsp84",
+      "iou": 0.09901756500054394,
+      "dice": 0.18019287071266224,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju0s2a9ekvms080138tjjpxr",
+      "iou": 0.7339972752331365,
+      "dice": 0.8465956500819188,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju0s690hkp960855tjuaqvv0",
+      "iou": 0.8237046846548585,
+      "dice": 0.9033312153943905,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju0sr5ghl0nd08789uzf1raf",
+      "iou": 0.8873453578448376,
+      "dice": 0.9403105310393203,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju0sxqiclckk08551ycbwhno",
+      "iou": 0.2666092166276827,
+      "dice": 0.420981014708741,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju0t4oil7vzk099370nun5h9",
+      "iou": 0.9526688852207226,
+      "dice": 0.9757608086360595,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju0tl3uz8blh0993wxvn7ly3",
+      "iou": 0.8490140845070423,
+      "dice": 0.9183424741011579,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju0u2g7pmnux0801vkk47ivj",
+      "iou": 0.9666487245247971,
+      "dice": 0.9830415696207966,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju0u82z3cuma0835wlxrnrjv",
+      "iou": 0.936411231628868,
+      "dice": 0.967161537109221,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju0ue769mxii08019zqgdbxn",
+      "iou": 0.903944818150724,
+      "dice": 0.9495493877062188,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju0vtox5ain6099360pu62rp",
+      "iou": 0.7059198301035307,
+      "dice": 0.8276119635243223,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju13cgqmnhwn0988yrainhcp",
+      "iou": 0.9625237302833571,
+      "dice": 0.9809040425150773,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju13fwthn9mq0835gacxgy01",
+      "iou": 0.9190833679879183,
+      "dice": 0.957835791106397,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju13hp5rnbjx0835bf0jowgx",
+      "iou": 0.7438573602957165,
+      "dice": 0.8531172069825437,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju14g8o4xui30878gkgbrvqj",
+      "iou": 0.9297309569758202,
+      "dice": 0.9635860932996059,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju14hjh2ob2o0835ouz3r5aa",
+      "iou": 0.9144636646739254,
+      "dice": 0.9553209930779003,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju14pxbaoksp0835qzorx6g6",
+      "iou": 0.9419886003799873,
+      "dice": 0.970127837203235,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju15czxqp3lv0835jvhgzurz",
+      "iou": 0.33748994956509026,
+      "dice": 0.5046616607097966,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju15jr8jz8sb0855ukmkswkz",
+      "iou": 0.9466764135522321,
+      "dice": 0.9726078838390687,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju15l5ubz9yh0855b3ivdpse",
+      "iou": 0.044821896389065335,
+      "dice": 0.08579815668865881,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju15mhjczc8z0801kit5c6di",
+      "iou": 0.17521258194953016,
+      "dice": 0.2981802350326687,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju15ptjtppz40988odsm9azx",
+      "iou": 0.40160438021264405,
+      "dice": 0.5730638201226437,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju15wdt3zla10801odjiw7sy",
+      "iou": 0.8971571906354515,
+      "dice": 0.9457910973997355,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju160wshltz10993i1gmqxbe",
+      "iou": 0.8966302367941712,
+      "dice": 0.9454981992797119,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju16ach3m1da0993r1dq3sn2",
+      "iou": 0.9680656619650309,
+      "dice": 0.9837737436041214,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju16b6ynq8e40988m8vx0xnj",
+      "iou": 0.8497436803959696,
+      "dice": 0.9187691131498471,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju16d65tzw9d0799ouslsw25",
+      "iou": 0.9232124874118832,
+      "dice": 0.9600733080246105,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju16fpvhzypl0799p9phnlx6",
+      "iou": 0.8296105621522877,
+      "dice": 0.9068711990560043,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju16jgnyzp970878melv7r25",
+      "iou": 0.8797154249978485,
+      "dice": 0.9360091568103778,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju16whaj0e7n0855q7b6cjkm",
+      "iou": 0.3262118940529735,
+      "dice": 0.4919453603391427,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju171py4qiha0835u8sl59ds",
+      "iou": 0.8533768461449006,
+      "dice": 0.9208886448753897,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju175facms5f0993a5tjikvt",
+      "iou": 0.3932410705841556,
+      "dice": 0.5644982464079648,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju17bz250pgd0799u1hqkj5u",
+      "iou": 0.9135544363141056,
+      "dice": 0.9548246122266549,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju17g6ykn1cs0993dww6qdi8",
+      "iou": 0.5734680616024433,
+      "dice": 0.7289224047146085,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju17hw9hr9c5098800fu4u8e",
+      "iou": 0.8165241448692153,
+      "dice": 0.8989961924541364,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju17otoe119u0799nqcbl8n1",
+      "iou": 0.9838057174983805,
+      "dice": 0.991836759840555,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju17r8il13910799dr2wme2e",
+      "iou": 0.8783783783783784,
+      "dice": 0.935251798561151,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju17v6ih0u7808783zcbg1jy",
+      "iou": 0.9051537086219167,
+      "dice": 0.9502159374601381,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju17x0j4nfc10993y31pvlgs",
+      "iou": 0.9748601544624108,
+      "dice": 0.9872700629050706,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju17z0qongpa0993de4boim4",
+      "iou": 0.6601378751013788,
+      "dice": 0.7952807836048755,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju1819curo000988pd5xcqme",
+      "iou": 0.9126290473955889,
+      "dice": 0.9543189241408921,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju183od81ff608017ekzif89",
+      "iou": 0.17352676925499966,
+      "dice": 0.29573551077179294,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju1871y11d6r0799k6cw4yze",
+      "iou": 0.951014802380589,
+      "dice": 0.9748924520922957,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju18849rrsgr0988p90hkygb",
+      "iou": 0.9493410873392734,
+      "dice": 0.9740122890807822,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju18gzrq18zw0878wbf4ftw6",
+      "iou": 0.20535354998631836,
+      "dice": 0.3407357948854911,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju18ibp219ub08783i6o98g7",
+      "iou": 0.8487820827202878,
+      "dice": 0.9182067379962862,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju18kevfrojc0835bn90f1in",
+      "iou": 0.06049913078940911,
+      "dice": 0.114095578266764,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju1alwgo30z60855fm3y23sm",
+      "iou": 0.41010794195439276,
+      "dice": 0.581668863428977,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju1amqw6p8pw0993d9gc5crl",
+      "iou": 0.8378090618715249,
+      "dice": 0.911747666559382,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju1aqqv02qwz0878a5cyhr67",
+      "iou": 0.9415195622999897,
+      "dice": 0.9698790376179716,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju1ats0y372e08011yazcsxm",
+      "iou": 0.1761886094318471,
+      "dice": 0.2995924429449359,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju1b0y2e396p08558ois175d",
+      "iou": 0.4239457304706623,
+      "dice": 0.5954520897794804,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju1b3zgj3d8e0801kpolea6c",
+      "iou": 0.17378587132496418,
+      "dice": 0.29611171095251887,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju1b75x63ddl0799sdp0i2j3",
+      "iou": 0.912253164556962,
+      "dice": 0.9541133794053009,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju1bhnfitmge0835ynls0l6b",
+      "iou": 0.8940190420174245,
+      "dice": 0.9440444073520564,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju1bm8063nmh07996rsjjemq",
+      "iou": 0.33060700825916123,
+      "dice": 0.4969265999758949,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju1brhsj3rls0855a1vgdlen",
+      "iou": 0.6335398595621644,
+      "dice": 0.7756650146657227,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju1c0qb4tzi308355wtsnp0y",
+      "iou": 0.4298845588592755,
+      "dice": 0.6012856858909311,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju1c3218411b08014g9f6gig",
+      "iou": 0.3110219555735502,
+      "dice": 0.4744725353397813,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju1c4fcu40hl07992b8gj0c8",
+      "iou": 0.9248261102193687,
+      "dice": 0.9609451007644197,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju1c6yfz42md08550zgoz3pw",
+      "iou": 0.6676082611592272,
+      "dice": 0.8006775652396247,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju1c8ffau5770835g0g343o8",
+      "iou": 0.9014925373134328,
+      "dice": 0.9481946624803768,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju1cbokpuiw70988j4lq1fpi",
+      "iou": 0.9551032192868486,
+      "dice": 0.9770361072140589,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju1cdxvz48hw0801i0fjwcnk",
+      "iou": 0.9353696559742113,
+      "dice": 0.9666056849520793,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju1cfhyg48bb0799cl5pr2jh",
+      "iou": 0.9474538515998687,
+      "dice": 0.9730180264056252,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju1cj3f0qi5n0993ut8f49rj",
+      "iou": 0.952573787088233,
+      "dice": 0.9757109241016233,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju1cnnziug1l0835yh4ropyg",
+      "iou": 0.8953357935978931,
+      "dice": 0.9447780141357305,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju1cqc7n4gpy0855jt246k68",
+      "iou": 0.8917868555142932,
+      "dice": 0.9427984478429582,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju1csmlc4ht10799b8ymmghg",
+      "iou": 0.9263819095477387,
+      "dice": 0.9617842702491196,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju1cu1u2474n0878tt7v4tdr",
+      "iou": 0.026196102050901903,
+      "dice": 0.051054768184263695,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju1cvkfwqrec0993wbp1jlzm",
+      "iou": 0.8075650798216597,
+      "dice": 0.8935391470401018,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju1cyjb5qtie0993njqne9m3",
+      "iou": 0.6354277678286951,
+      "dice": 0.7770783648517013,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju1d31sp4d4k0878r3fr02ul",
+      "iou": 0.9018653690186537,
+      "dice": 0.9484008528784649,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju1d50a94qf50855wsowacrc",
+      "iou": 0.9517004431608823,
+      "dice": 0.9752525767935504,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju1d96gsv62d09881b3wecw2",
+      "iou": 0.28176067743435995,
+      "dice": 0.43964631213113364,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju1ddr6p4k5z08780uuuzit2",
+      "iou": 0.8701698711965652,
+      "dice": 0.9305784299046763,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju1dfeupuzlw0835gnxip369",
+      "iou": 0.9453128667323851,
+      "dice": 0.9718877440216211,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju1dg44i4z3w0801nyz4p6zf",
+      "iou": 0.9180327868852459,
+      "dice": 0.9572649572649573,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju1dhfok4mhe0878jlgrag0h",
+      "iou": 0.389192558496356,
+      "dice": 0.5603147758257688,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju1dia8hvc6v098827mgffnm",
+      "iou": 0.8302187454729828,
+      "dice": 0.9072344467310433,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju1djtprvd7b0988thwwrg09",
+      "iou": 0.8796782091640434,
+      "dice": 0.9359880908075922,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju1dnz61vfp40988e78bkjga",
+      "iou": 0.7621333763666438,
+      "dice": 0.8650121342552315,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju1dq3x1vgx109889c7wyirg",
+      "iou": 0.9156608944084893,
+      "dice": 0.9559738856508043,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju1drnhbrb9409935wi7vkhg",
+      "iou": 0.417091872396343,
+      "dice": 0.5886589014035183,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju1efbr0rqxz09931z0lf4vf",
+      "iou": 0.8922378399265807,
+      "dice": 0.9430504148053606,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju1egh885m1l0855ci1lt37c",
+      "iou": 0.6523800493077945,
+      "dice": 0.7896246987260416,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju1egx9pvz2n0988eoy8jp23",
+      "iou": 0.8926072981660049,
+      "dice": 0.9432567432567432,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju1ejj7dvqfa0835ra184v5m",
+      "iou": 0.44669999725799525,
+      "dice": 0.6175433719563816,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju1erep75us208553i4ofwwe",
+      "iou": 0.9553732703620846,
+      "dice": 0.9771773858657423,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju1euant5l960878iqj5vvto",
+      "iou": 0.8764279380314016,
+      "dice": 0.9341450532343702,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju1euuc65wm00799m4sjdnnn",
+      "iou": 0.9122298365840801,
+      "dice": 0.9541006202618884,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju1ewnoh5z030855vpex9uzt",
+      "iou": 0.936079587763977,
+      "dice": 0.9669846153846153,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju1expq45zst0855rjqwwj4m",
+      "iou": 0.9572445552293035,
+      "dice": 0.9781552874133874,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju1f15k3w4ct0835cmde6ypo",
+      "iou": 0.5644357718176534,
+      "dice": 0.7215838220854012,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju1f320ewfyu0988ndz6blh5",
+      "iou": 0.6450568889961001,
+      "dice": 0.7842365735932059,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju1f5x1164xv08555654c24r",
+      "iou": 0.8909693118831958,
+      "dice": 0.9423413762287757,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju1f79yhsb5w0993txub59ol",
+      "iou": 0.9284507042253521,
+      "dice": 0.9628980426526439,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju1f8w0t65en0799m9oacq0q",
+      "iou": 0.6219893907943725,
+      "dice": 0.7669463121330923,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju1fb9236a110801yvg0fwju",
+      "iou": 0.9396127129214046,
+      "dice": 0.968866317138311,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju1ffnjn6ctm08015perkg37",
+      "iou": 0.2556208404707666,
+      "dice": 0.40716246852820215,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju1fj6axwfp30835ukhuzhw9",
+      "iou": 0.444130185760342,
+      "dice": 0.6150833077787999,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju1fjsb4sipq09931lvd8e41",
+      "iou": 0.42792247122955784,
+      "dice": 0.5993637327677624,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju1fm3id6gl50801r3fok20c",
+      "iou": 0.8195155237120437,
+      "dice": 0.9008063003937746,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju1fmsyf6gxb0801cimx2gle",
+      "iou": 0.6216467499794909,
+      "dice": 0.7666857778827021,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju1fr4etsmrr09933u4t4aql",
+      "iou": 0.9699594566956605,
+      "dice": 0.9847506794100583,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju1ftaji6isw0855108yqcse",
+      "iou": 0.6860514191256638,
+      "dice": 0.8137965560758873,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju1fuoa4wmc50835qfd11sp9",
+      "iou": 0.957027187639281,
+      "dice": 0.9780417908181663,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju1fyb1d69et0878muzdak9u",
+      "iou": 0.11337559595536228,
+      "dice": 0.2036610041880382,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju1g20bdwq6u0835e16xugcd",
+      "iou": 0.9492850068094589,
+      "dice": 0.9739827716247866,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju1g4nsb6ngy0799l4ezm8ab",
+      "iou": 0.9388851362218148,
+      "dice": 0.9684793788778658,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju1gghyjwxt80835vx0wgxw0",
+      "iou": 0.7647312580156231,
+      "dice": 0.8666829632468073,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju1gi7jlwyld0835cdf6g6qz",
+      "iou": 0.8236556343065219,
+      "dice": 0.9033017186051486,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju1gkndf6yi10801o1qnje19",
+      "iou": 0.1593149060728445,
+      "dice": 0.27484319443889577,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju1gv7106qd008784gk603mg",
+      "iou": 0.9178687433171263,
+      "dice": 0.9571757676488224,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju1h5w4wxajx0835mc954kxy",
+      "iou": 0.5858429465512354,
+      "dice": 0.7388410659772834,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju1h89h6xbnx08352k2790o9",
+      "iou": 0.9398649709530539,
+      "dice": 0.9690004046944557,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju1haab178i70799tk9z8y8x",
+      "iou": 0.9262960031658093,
+      "dice": 0.9617379692876585,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju1hhj6mxfp90835n3wofrap",
+      "iou": 0.8540226007758476,
+      "dice": 0.9212644985217193,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju1hirfi7ekp0855q0vgm9qq",
+      "iou": 0.8971084496790842,
+      "dice": 0.9457640124167277,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju1hmff8tkp809931jps6fbr",
+      "iou": 0.8177412756852009,
+      "dice": 0.8997334071945435,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju1hp9i2xu8e0988u2dazk7m",
+      "iou": 0.9371970620595319,
+      "dice": 0.9675805114665521,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju1hs0za7jha0855vj0mdrjt",
+      "iou": 0.9255709807433945,
+      "dice": 0.9613470393971812,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju1hyolc7aqu0878rrkfn1lr",
+      "iou": 0.6344687461239051,
+      "dice": 0.7763608177012001,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju2hdr06v2bq0799mbm3bks1",
+      "iou": 0.2902802052418253,
+      "dice": 0.44994909487497065,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju2hewssldzx0835ep795xu0",
+      "iou": 0.9470108695652174,
+      "dice": 0.9727843684577809,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju2hfqnmhisa0993gpleeldd",
+      "iou": 0.02342396853609651,
+      "dice": 0.04577568877852666,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju2hgsptlfam0835o3b59h1o",
+      "iou": 0.8520555877243775,
+      "dice": 0.9201188056901672,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju2hjrqcvi2j0801bx1i6gxg",
+      "iou": 0.019920173725266593,
+      "dice": 0.03906222121778021,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju2hlm19vjjf0801o69qnber",
+      "iou": 0.7538320801445816,
+      "dice": 0.8596399720119585,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju2hos57llxm08359g92p6jj",
+      "iou": 0.9502662695189097,
+      "dice": 0.9744990049520988,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju2hqt33lmra0988fr5ijv8j",
+      "iou": 0.9157892524641154,
+      "dice": 0.9560438354962209,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju2htabevq9108015qjei0x7",
+      "iou": 0.617214460414782,
+      "dice": 0.7633056413018707,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju2hugv9vget0799hhk7ksvg",
+      "iou": 0.7988450433108758,
+      "dice": 0.8881754949170679,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju2hw5gjlr5h0988so2qqres",
+      "iou": 0.2563280169889277,
+      "dice": 0.4080590634335695,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju2hx006vidl0799igm81vmh",
+      "iou": 0.8451106352605282,
+      "dice": 0.9160541586073501,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju2i03ptvkiu0799xbbd4det",
+      "iou": 0.9491928565858223,
+      "dice": 0.9739342655384184,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju2i3hzclw3o0988rrgh911i",
+      "iou": 0.9729309491836879,
+      "dice": 0.9862797778971879,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju2i6acqvo6l0799u20fift8",
+      "iou": 0.9468850094393654,
+      "dice": 0.9727179621276503,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju2i8br1vqtd08784u6vmcjk",
+      "iou": 0.9539849335444557,
+      "dice": 0.9764506544213344,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju2iatlki5u309930zmgkv6h",
+      "iou": 0.27580475293207335,
+      "dice": 0.4323620088390716,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju2igw4gvxds0878808qj398",
+      "iou": 0.5844279077092684,
+      "dice": 0.7377147358559489,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju2ij9uiic2l09933ljiv6gm",
+      "iou": 0.8587827426810478,
+      "dice": 0.9240270236664317,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju2lberzkdzm09938cl40pog",
+      "iou": 0.495322486491341,
+      "dice": 0.6624958709122031,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju2lcyfgkf5809932fn9gucn",
+      "iou": 0.9366757325396418,
+      "dice": 0.9673025967143615,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju2lejzcy4pc0878c9rlonot",
+      "iou": 0.9691524499257598,
+      "dice": 0.9843346054413394,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju2lyynuymli0855g7fxgbhe",
+      "iou": 0.7197613268608414,
+      "dice": 0.8370479270802705,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju2lz8vqktne0993fuym6drw",
+      "iou": 0.9528506506920058,
+      "dice": 0.9758561417426947,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju2m56cryvqd0801gtn2yp8t",
+      "iou": 0.92629555703408,
+      "dice": 0.9617377288252676,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju2m71z2ywwv080131bcrsd3",
+      "iou": 0.6784542763421074,
+      "dice": 0.8084274750941418,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju2ma647l0nj0993ot4deq2q",
+      "iou": 0.17442080356442768,
+      "dice": 0.2970328915071183,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju2mfjndoz700988b9lc3zeq",
+      "iou": 0.937555302743016,
+      "dice": 0.9677713987473904,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju2mh8t6p07008350e01tx2a",
+      "iou": 0.9039641218619516,
+      "dice": 0.9495600379044267,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju2nbdpmlmcj0993s1cht0dz",
+      "iou": 0.306576858724098,
+      "dice": 0.4692825480216713,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju2nd7l7z98o0799gfjvyfmw",
+      "iou": 0.8222688574453175,
+      "dice": 0.9024671130011803,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju2nfnvxzdkd0878399axlco",
+      "iou": 0.9548982536444599,
+      "dice": 0.9769288522962982,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju2nguelpmlj0835rojdn097",
+      "iou": 0.9438347566426384,
+      "dice": 0.9711059578673399,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju2nnqrqzp580855z8mhzgd6",
+      "iou": 0.7234406176431633,
+      "dice": 0.8395306577287027,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju2np2k9zi3v079992ypxqkn",
+      "iou": 0.9224153931819588,
+      "dice": 0.9596421215242018,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju2nqapmzvk20801f9us40dx",
+      "iou": 0.1620182030071425,
+      "dice": 0.27885656625319943,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju2nsmwjlzyl0993jl80chvz",
+      "iou": 0.9726805681474766,
+      "dice": 0.9861511122005024,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju2ntxtdzlvu0799xl3j9pan",
+      "iou": 0.3164678865101119,
+      "dice": 0.48078329863260366,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju2nyc5f02m40801ojqbtiea",
+      "iou": 0.8956541294203632,
+      "dice": 0.9449552167981493,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju2oi8sq0i2y0801mektzvw8",
+      "iou": 0.8177271712095446,
+      "dice": 0.8997248697838586,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju2okvco06xc0799kxe5n1qh",
+      "iou": 0.9702601864521908,
+      "dice": 0.9849056415227265,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju2omjpeqj5a0988pjdlb8l1",
+      "iou": 0.959387070220984,
+      "dice": 0.9792726356133219,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju2oo0wh0bqy0878biujeyhe",
+      "iou": 0.9542713016778156,
+      "dice": 0.9766006396947422,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju2oq5570avm079959o20op1",
+      "iou": 0.47581804842259723,
+      "dice": 0.6448193921075395,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju2osuru0ki00855txo0n3uu",
+      "iou": 0.9632528378280674,
+      "dice": 0.9812825116236247,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju2otvvv0l7z0855x7we8cb0",
+      "iou": 0.9135115736587116,
+      "dice": 0.954801200300075,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju2ouil2mssu0993hvxsed6d",
+      "iou": 0.037619536550502305,
+      "dice": 0.07251123408020241,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju2p0eveqtdc0835gpi3p93i",
+      "iou": 0.8947123797025371,
+      "dice": 0.9444308162941372,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju2p4ddkmzxj0993p94o62av",
+      "iou": 0.9397847050908276,
+      "dice": 0.9689577432221516,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju2p91qir00k08350ddfif0w",
+      "iou": 0.9518291695893811,
+      "dice": 0.9753201606159247,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju2pag1f0s4r0878h52uq83s",
+      "iou": 0.36673419680863173,
+      "dice": 0.5366576729622597,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju2phaksnahz0993yxogjcpv",
+      "iou": 0.8364851957975167,
+      "dice": 0.9109631786977325,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju2pjb9v0ywn0878j5g5n69j",
+      "iou": 0.9486440280245382,
+      "dice": 0.9736452778255634,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju2pkwt3r8b90988v2ywq1px",
+      "iou": 0.8895605673099279,
+      "dice": 0.9415528485295928,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju2pmhtr17a00855cvpelzb0",
+      "iou": 0.9550421293953018,
+      "dice": 0.9770041423001949,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju2qdj95ru8g09886gfi9rsz",
+      "iou": 0.9658287090676261,
+      "dice": 0.9826173609253163,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju2qfie4rvz508357kad9z5o",
+      "iou": 0.9021507459794613,
+      "dice": 0.9485586227971885,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju2qh5le1ock0878oahaql7d",
+      "iou": 0.951256012827365,
+      "dice": 0.9750191738796976,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju2qn2fzs1vy0988l243cvzy",
+      "iou": 0.9448403311649911,
+      "dice": 0.9716379447962357,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju2qozsk20cq0855ugrg3cri",
+      "iou": 0.8895466800077824,
+      "dice": 0.9415450694281007,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju2qqn5ys4uo0988ewrt2ip2",
+      "iou": 0.9028916849201094,
+      "dice": 0.9489680280546459,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju2qs32r1vys07999conmbvx",
+      "iou": 0.020101238993923406,
+      "dice": 0.0394102824808806,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju2qtee81yd708787bsjr75d",
+      "iou": 0.6006509681490584,
+      "dice": 0.7505083620367681,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju2qu37qobl50993aw7ghcfq",
+      "iou": 0.05606986004942445,
+      "dice": 0.1061858919954412,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju2qvuj1s9ok0835tp2k4ozh",
+      "iou": 0.44702528876641157,
+      "dice": 0.6178541484198945,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju2qxxko229x08786gvxxhur",
+      "iou": 0.467626553960799,
+      "dice": 0.6372555098553899,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju2qz06823a40878ojcz9ccx",
+      "iou": 0.7740426269277422,
+      "dice": 0.8726313733151007,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju2r11x7sdgx0988o8ule0wl",
+      "iou": 0.9371239799601829,
+      "dice": 0.9675415612576798,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju2r2obh2bjm08553kng0rh7",
+      "iou": 0.9295595484178725,
+      "dice": 0.9634940255459415,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju2r6mt2om21099352pny5gw",
+      "iou": 0.9606308053485761,
+      "dice": 0.9799201386900455,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju2r7h21sj9608354gzks3ae",
+      "iou": 0.7819074983779776,
+      "dice": 0.8776072821846554,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju2r91dg2k090801bh0xzbxk",
+      "iou": 0.8778674377092953,
+      "dice": 0.9349620959189284,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju2raxlosl630988jdbfy9b0",
+      "iou": 0.6991626175953686,
+      "dice": 0.822949622779265,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju2rga4psq9n09881z519xx0",
+      "iou": 0.9161514683153014,
+      "dice": 0.9562411776567856,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju2ricdv2iys0878sv1adh0u",
+      "iou": 0.8486179741928724,
+      "dice": 0.9181107032818814,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju2rkjfwoxys0993x768l1j2",
+      "iou": 0.9245419444404275,
+      "dice": 0.9607916804424274,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju2rlqdnoz9k0993cpjae3x0",
+      "iou": 0.7902661956957139,
+      "dice": 0.8828476989575388,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju2rmd2rsw9g09888hh1efu0",
+      "iou": 0.8029739776951673,
+      "dice": 0.8907216494845361,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju2rn0hasxri0835nfy3buay",
+      "iou": 0.04155463862638094,
+      "dice": 0.0797934877063845,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju2rnkt22xep0801as160g9t",
+      "iou": 0.03499303543195998,
+      "dice": 0.06761984715646989,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju2ro5jqsy680988pi6qsujw",
+      "iou": 0.26942899769428996,
+      "dice": 0.4244884876328864,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju2rpa30t07b0835im0erql0",
+      "iou": 0.9196206750287826,
+      "dice": 0.9581274956991114,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju2rqo702wpx0855fn7d5cxh",
+      "iou": 0.8972402257997073,
+      "dice": 0.9458372362113615,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju2rxm8rpbaf0993o3qr2oph",
+      "iou": 0.13602499152220154,
+      "dice": 0.23947535052012664,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju2rz4k434s70855wwx3ddtx",
+      "iou": 0.8555350141194157,
+      "dice": 0.9221437565007938,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju2rzpsmtb0f0835jabkbao1",
+      "iou": 0.034060602165740174,
+      "dice": 0.06587738106336037,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju2s16zp317h0799gr67jqc2",
+      "iou": 0.8804244135111458,
+      "dice": 0.9364103201225825,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju2s2527pfyr0993l3h1149a",
+      "iou": 0.849478672985782,
+      "dice": 0.9186141861418614,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju2s9g11pnra0993gn4eh793",
+      "iou": 0.6167015122297778,
+      "dice": 0.7629132620519594,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju2saez63gxl08559ucjq3kt",
+      "iou": 0.4601251576255406,
+      "dice": 0.6302544069219346,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju2sevf53lkx08558h5bpaig",
+      "iou": 0.7309944434754442,
+      "dice": 0.8445947891176048,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju2sggy13na70855tbeoqgha",
+      "iou": 0.3000731317255069,
+      "dice": 0.4616250030907697,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju2spdagu1l50835da1f46fr",
+      "iou": 0.8939594773717099,
+      "dice": 0.944011197760448,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju2srvy5440s0801y1ba9akr",
+      "iou": 0.35241465727445137,
+      "dice": 0.5211636170591049,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju2sszfq3uye0878sucelzk2",
+      "iou": 0.6863255373800189,
+      "dice": 0.8139893776931556,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju2suk42469908015ngmq6f2",
+      "iou": 0.8400197954470472,
+      "dice": 0.9130551720428179,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju2sxf3iqbpv09937iksn8ep",
+      "iou": 0.8875049189864321,
+      "dice": 0.9404001124013089,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju2syxa93yw40799x2iuwabz",
+      "iou": 0.8637319954685224,
+      "dice": 0.9268843348384855,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju2t16vuucaq0835xcpsivn2",
+      "iou": 0.9353710600417839,
+      "dice": 0.9666064346560909,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju2t2ivz43i10878zeg8r1br",
+      "iou": 0.9189306861720655,
+      "dice": 0.957752870172891,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju2t3ibkuecr0835o7si16zv",
+      "iou": 0.8676067687348912,
+      "dice": 0.9291107563532812,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju2t62nq45jl0799odpufwx6",
+      "iou": 0.8299199958573906,
+      "dice": 0.9070560436917243,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju2t9tdwuk700835kv0ljmtl",
+      "iou": 0.8303500610945572,
+      "dice": 0.9073128454979855,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju2ti1du4idn0878giuozonw",
+      "iou": 0.11853942882281776,
+      "dice": 0.21195395668362263,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju2tjrog4jy30878pawyazqc",
+      "iou": 0.9225187205681789,
+      "dice": 0.9596980364337246,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju2top2ruxxy0988p1svx36g",
+      "iou": 0.46224314085638846,
+      "dice": 0.6322384122597664,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju2tpfa5uyx408359datxqqj",
+      "iou": 0.4146802194836737,
+      "dice": 0.5862529408024416,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju2tqfgw4oat0799rn0g5b2z",
+      "iou": 0.8553519339107973,
+      "dice": 0.9220373970860037,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju2trbpkv0c00988hxla5dzz",
+      "iou": 0.9086976913856897,
+      "dice": 0.9521651285971714,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju2trtjf4qjd0878a2zle9v9",
+      "iou": 0.03486021002067979,
+      "dice": 0.06737182410363071,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju2tvrvm53ws0801a0jfjdxg",
+      "iou": 0.16314968623485926,
+      "dice": 0.28053085198858335,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju2txjfzv60w098839dcimys",
+      "iou": 0.8822994011976047,
+      "dice": 0.9374697783320184,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju2tzypl4wss0799ow05oxb9",
+      "iou": 0.9737554172074708,
+      "dice": 0.9867032244402091,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju2u2b9o4zvp08788qb9nqxj",
+      "iou": 0.9680976981883503,
+      "dice": 0.9837902854919164,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju2u4pymvc720988wsxrmi84",
+      "iou": 0.8272693290137686,
+      "dice": 0.9054706012717572,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju2u73dj53oz0878486k8k4b",
+      "iou": 0.9272989765139601,
+      "dice": 0.9622782845983039,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju2ueb6j5ado0878vf5md13o",
+      "iou": 0.10634103926053343,
+      "dice": 0.19223916583915326,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju2ulk385h170799rlklxob0",
+      "iou": 0.38676588132303125,
+      "dice": 0.5577954960271172,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju2uokeg5jm20799xwgsyz89",
+      "iou": 0.8955478725660714,
+      "dice": 0.9448960751951213,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju2upu4evw7g08358guwozxv",
+      "iou": 0.9359013305790145,
+      "dice": 0.9668894956532655,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju2urqpwvxw70835rvndvtsi",
+      "iou": 0.9413333333333334,
+      "dice": 0.9697802197802198,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju2uwz9f5yf1085506cfamfx",
+      "iou": 0.9509376596284843,
+      "dice": 0.9748519179332165,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju2uy8ox62jo0801g88hh42z",
+      "iou": 0.923585354255825,
+      "dice": 0.9602748869057919,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju2uzabhs6er0993x3aaf87p",
+      "iou": 0.11384454695795979,
+      "dice": 0.2044172991085383,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju2wtwj87kys0855kx6mddzw",
+      "iou": 0.6415088990168908,
+      "dice": 0.7816087983453446,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju2wve9v7esz0878mxsdcy04",
+      "iou": 0.19499943813911674,
+      "dice": 0.3263590457293851,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju2wx0gh7fpz0878wwyd9ep8",
+      "iou": 0.9220981563230329,
+      "dice": 0.9594704134017833,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju2wxv0hxs2f09884w48v8fi",
+      "iou": 0.018980002366583835,
+      "dice": 0.03725294377220893,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju2wzu8wxtgu09880ku9x1pg",
+      "iou": 0.9661583455191143,
+      "dice": 0.9827879303017425,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju2x7vw87mu30878hye2ca0m",
+      "iou": 0.7148121889652669,
+      "dice": 0.8336915185990029,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju2xa3i4y0160988i679zsqd",
+      "iou": 0.6034100284169035,
+      "dice": 0.752658418898214,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju2xbk0080y80801eghyddi2",
+      "iou": 0.9456241561310912,
+      "dice": 0.9720522364519588,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju2xd75m82720801q4s4ik3n",
+      "iou": 0.9516752857329104,
+      "dice": 0.9752393676241372,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju2xf8e5y2wm08359vcgk09b",
+      "iou": 0.9633516200121911,
+      "dice": 0.9813337663950478,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju2xjz2ju8pe0993ysv9wg17",
+      "iou": 0.8223047549301669,
+      "dice": 0.9024887332433906,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju2xlcqxy9c60988vjacdznb",
+      "iou": 0.2189387526721281,
+      "dice": 0.3592284718033221,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju2xs6na81t20878pt6nkfip",
+      "iou": 0.8188775861356973,
+      "dice": 0.900420778591754,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju2xwm1s84l50799i60mq0pu",
+      "iou": 0.9029596977329974,
+      "dice": 0.9490055925080247,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju2xyd9vyi7m098831qcucse",
+      "iou": 0.9410736476982534,
+      "dice": 0.9696423923061229,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju2y0z6g87p10878fpk5d3rq",
+      "iou": 0.8767155186214726,
+      "dice": 0.9343083807027476,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju2y26c588bo07993ksd8eoz",
+      "iou": 0.8680905560604809,
+      "dice": 0.9293880890776002,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju2y40d8ulqo0993q0adtgtb",
+      "iou": 0.3762694027887398,
+      "dice": 0.5467961461997247,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju2y5zas8m7f0801d34g5owq",
+      "iou": 0.3197343533268883,
+      "dice": 0.48454350304798427,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju2y8s56ymqr083541ggdsml",
+      "iou": 0.8416008460292805,
+      "dice": 0.9139883355764917,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju2yb31a8e8u0878wdashg7o",
+      "iou": 0.9242694791649283,
+      "dice": 0.9606445346376661,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju2ycp1u8g2r0799jslnp7cz",
+      "iou": 0.7925247116968699,
+      "dice": 0.8842552702625079,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju2yg5ht8i4p087800js8hp4",
+      "iou": 0.21644661151591518,
+      "dice": 0.3558670137544024,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju2yi9tz8vky0801yqip0xyl",
+      "iou": 0.29919804325365307,
+      "dice": 0.460588814472588,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju2yljr0yzhw0988ecf271ly",
+      "iou": 0.5047505440006712,
+      "dice": 0.6708760412323148,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju2yo1j1v0qz09934o0e683p",
+      "iou": 0.4201397645642323,
+      "dice": 0.591687909947584,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju2ysg748ru80878sp6j0gm0",
+      "iou": 0.9097571145627019,
+      "dice": 0.9527464069911519,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju2yv4imv6cz099314jveiib",
+      "iou": 0.8371604631241537,
+      "dice": 0.9113634654433331,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju2yw4s7z7p20988lmf2gdgd",
+      "iou": 0.9228658405865454,
+      "dice": 0.9598858340580195,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju2yyhsp933j0855hp32e012",
+      "iou": 0.955115652325649,
+      "dice": 0.977042612481282,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju2z1nxlzaj40835wj81s1iy",
+      "iou": 0.9262379456062412,
+      "dice": 0.9617066756669339,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju2z2x3nvd3c099350zgty7w",
+      "iou": 0.08012057019655454,
+      "dice": 0.14835486409072762,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju2z45kuzf6d0988nz2c819m",
+      "iou": 0.919392523364486,
+      "dice": 0.9580036518563603,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju2z6ez69g4u0801qwt088lw",
+      "iou": 0.41039899791764733,
+      "dice": 0.5819615563022548,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju2z9vlp9j0w0801oag91sy9",
+      "iou": 0.9289656400213637,
+      "dice": 0.96317489616982,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju2zblxw9848087853csbrx1",
+      "iou": 0.21328584631336925,
+      "dice": 0.35158383650719927,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju2zdhsczmn50988z64qwg2q",
+      "iou": 0.21280537617676806,
+      "dice": 0.3509307929481859,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju2zdvjn9h7r08553cp4eed5",
+      "iou": 0.10795585916973201,
+      "dice": 0.19487393523173532,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju2zgbj9zmrw0835nnlzxj4c",
+      "iou": 0.3960299040132492,
+      "dice": 0.5673659323124222,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju2zi4l09f5807991s8do2b2",
+      "iou": 0.8950055228826462,
+      "dice": 0.9445941049513997,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju2zjcvj9qma0801dk71hhi0",
+      "iou": 0.4906133478315555,
+      "dice": 0.6582704341743175,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju2zkpdl9h7t0799ix60teqg",
+      "iou": 0.8738942467575657,
+      "dice": 0.9327039114076808,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju2zm0axztpe0988r8s9twjr",
+      "iou": 0.905505341002465,
+      "dice": 0.9504096593359207,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju2zo0fwzv580988qlijd2xa",
+      "iou": 0.10131632933453284,
+      "dice": 0.18399133225556175,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju2zp89k9q1g0855k1x0f1xa",
+      "iou": 0.8963689670726207,
+      "dice": 0.9453529166914432,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju2zpw4q9vzr0801p0lysjdl",
+      "iou": 0.8404838404838405,
+      "dice": 0.9133292257136989,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju2zr3c3vwb00993jn06bbaz",
+      "iou": 0.8252816497995036,
+      "dice": 0.9042786902395648,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju2zrojo9kcd0878ld2epejq",
+      "iou": 0.9316480043965103,
+      "dice": 0.9646146733525375,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju2zwg05a0oy0801yr73ig7g",
+      "iou": 0.8945510935244104,
+      "dice": 0.9443409539937906,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju2zxja9w1eh09933609ho9z",
+      "iou": 0.9542283477964948,
+      "dice": 0.9765781454070527,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju2zy1e49pqk0878t6ncqn12",
+      "iou": 0.04230843833252184,
+      "dice": 0.08118218518926433,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju300m3s04fg0988uzupuf7z",
+      "iou": 0.292205960148122,
+      "dice": 0.45225911218460446,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju302fqq9spc0878rrygyzzz",
+      "iou": 0.24985201334045595,
+      "dice": 0.3998105546474757,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju303j5r062k098835zxfds5",
+      "iou": 0.9514748532220415,
+      "dice": 0.9751341162824416,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju30525w04r10835ygp257sb",
+      "iou": 0.11693774641502143,
+      "dice": 0.2093899087757587,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju306x7w05nb0835cunv799x",
+      "iou": 0.8456188127921098,
+      "dice": 0.9163526151023907,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju30ajhw09sx0988qyahx9s8",
+      "iou": 0.31140752831312,
+      "dice": 0.47492106243081805,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju30bmab08bi0835mvlr6e0r",
+      "iou": 0.8845236250968241,
+      "dice": 0.9387238380218009,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju30df2j09dd08351ayx2t6w",
+      "iou": 0.8755590705792516,
+      "dice": 0.9336512875692495,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju30ftgja7170855xl9bkdm0",
+      "iou": 0.8967246268034359,
+      "dice": 0.9455506762884105,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju30gxjq0djk0988jytm49rs",
+      "iou": 0.9337805751328534,
+      "dice": 0.9657564949618975,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju30ia8da2bq0799klnehml2",
+      "iou": 0.5310914883662208,
+      "dice": 0.6937423300980292,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju30j1rgadut0801vuyrsnt8",
+      "iou": 0.7366355393151983,
+      "dice": 0.8483478802992519,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju30k2z40ds308353kdew70n",
+      "iou": 0.9215679393599102,
+      "dice": 0.959183300765199,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju30lncba3ny0878jwnous8n",
+      "iou": 0.9372735938989514,
+      "dice": 0.9676212971164255,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju30mm25a53s0799qa5wiqe8",
+      "iou": 0.027805767477568254,
+      "dice": 0.0541070469876987,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju30nyxe0gfb0835p256yoju",
+      "iou": 0.6465346649231019,
+      "dice": 0.7853277294387203,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju30ov1oah920801mi8thuyg",
+      "iou": 0.8412568025464626,
+      "dice": 0.9137854115547625,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju30qbm1ad3x0855znuhpz9u",
+      "iou": 0.9592753977968176,
+      "dice": 0.9792144574218731,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju30u1hbakn808019g15nb8b",
+      "iou": 0.08573908091176591,
+      "dice": 0.15793680529536655,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju30xqmh0ni00835ix3batv1",
+      "iou": 0.8726577724479089,
+      "dice": 0.9319991995197118,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju30ywtc0oar0835bp2en7ec",
+      "iou": 0.9171849181312903,
+      "dice": 0.9568038111058005,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju310f6val1v0855xo8tc3gu",
+      "iou": 0.6981416410603232,
+      "dice": 0.8222419428150906,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju3128yi0rpu0988o4oo5n8n",
+      "iou": 0.9432301380082059,
+      "dice": 0.9707858267111982,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju31rb7vb6110801p9rhacuw",
+      "iou": 0.9114747108671322,
+      "dice": 0.9536874390073888,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju31t8xd17bk0835rnb893jk",
+      "iou": 0.5910761154855643,
+      "dice": 0.742989112504124,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju31ugmfb3dz0855xtqshki6",
+      "iou": 0.9203690036900369,
+      "dice": 0.9585334921793935,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju31w6goazci0799n014ly1q",
+      "iou": 0.13984977107196975,
+      "dice": 0.24538281205329063,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju31y80qbawn0801twwm2l5s",
+      "iou": 0.9649061400438443,
+      "dice": 0.9821396761702965,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju320gyvbch60801v2amdi2g",
+      "iou": 0.27235405716418376,
+      "dice": 0.4281104864336348,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju323ypb1fbb0988gx5rzudb",
+      "iou": 0.9429310557220876,
+      "dice": 0.9706273961138046,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju324q101fhe08350wae9cif",
+      "iou": 0.8917096513579019,
+      "dice": 0.9427553014996961,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju326h4v1gxw08352px40p7r",
+      "iou": 0.9254540275457492,
+      "dice": 0.961283951012183,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju3280wv1ir009882jze27tc",
+      "iou": 0.9400581828022462,
+      "dice": 0.9691030827172549,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju32a52lb9rc0799xi40qs00",
+      "iou": 0.8966867084559293,
+      "dice": 0.9455295958560406,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju32csyfblyh080170aa3x5p",
+      "iou": 0.41511876386948304,
+      "dice": 0.5866910600978641,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju32fhnhbds40799broyoptc",
+      "iou": 0.7843954734961287,
+      "dice": 0.8791722296395194,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju32gzs6xo8x0993r8tedbpb",
+      "iou": 0.822101536905521,
+      "dice": 0.9023663283899072,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju32jcdabepz0878d0cznmfe",
+      "iou": 0.9256614777649127,
+      "dice": 0.9613958511953145,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju32l161bi1v07990vm376in",
+      "iou": 0.8163644816364481,
+      "dice": 0.8988994113130279,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju32phw2bv130801yj7bkouq",
+      "iou": 0.7014884920227962,
+      "dice": 0.824558608902302,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju32pzh9bpw10855q4vaxfhe",
+      "iou": 0.8501417794660532,
+      "dice": 0.9190017639744368,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju32qr9tbvsj08013pkpjenq",
+      "iou": 0.7836043662285587,
+      "dice": 0.8786750930482352,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju32srle1xfq083575i3fl75",
+      "iou": 0.8955361676591423,
+      "dice": 0.9448895599444755,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju32upim1z7u0988l883nqp6",
+      "iou": 0.9215077255139376,
+      "dice": 0.9591506849315069,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju32zhbnc1oy0801iyv1ix6p",
+      "iou": 0.3079216810709548,
+      "dice": 0.47085645192275094,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju330ofbc2l30801th5g3hw6",
+      "iou": 0.7481040606700585,
+      "dice": 0.8559033498077979,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju33231uy4gi0993qc7b1jch",
+      "iou": 0.2691404973409786,
+      "dice": 0.4241303431808605,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju334jzo261t0835yqudnfs1",
+      "iou": 0.9630306969151943,
+      "dice": 0.9811672312904219,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju336l68y7if0993wf092166",
+      "iou": 0.6288607039730985,
+      "dice": 0.772147922089579,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju3381d8bz3h07991xtl7ra0",
+      "iou": 0.8803682999013482,
+      "dice": 0.9363785806722396,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju33belnbyhm0878yxl42233",
+      "iou": 0.08434077489912602,
+      "dice": 0.15556138227297053,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju33eqwbcch208012jikwdky",
+      "iou": 0.9190044798407168,
+      "dice": 0.9577929488908717,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju33jon3ygbj0993pu22a4k6",
+      "iou": 0.8945206433196408,
+      "dice": 0.9443239866230568,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju33mirdc8mj0799k33wzoes",
+      "iou": 0.9549290047104273,
+      "dice": 0.9769449452225766,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju33o12x2jm50988944mxq0v",
+      "iou": 0.8204247627654767,
+      "dice": 0.9013553095368118,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju33qpdvc9g0087825jhf3s9",
+      "iou": 0.9468226535495878,
+      "dice": 0.9726850587271237,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju33w4sdcivk0855x879zht7",
+      "iou": 0.9466823253082796,
+      "dice": 0.9726110038610039,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju33x0f22peh0988g0ln7w5v",
+      "iou": 0.8976993522448068,
+      "dice": 0.9460922787193974,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju33yemn2qb20988wfjxximx",
+      "iou": 0.9006554989075019,
+      "dice": 0.94773145309626,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju33za6l2qy70988jhrlp2ev",
+      "iou": 0.06910716140284279,
+      "dice": 0.1292801393494791,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju34aozyyy830993bn16u32n",
+      "iou": 0.9077367770810508,
+      "dice": 0.9516373411534702,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju34c1xfyz920993itxkkfad",
+      "iou": 0.5640730201987817,
+      "dice": 0.7212873221572383,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju34ds2531520988qjpqt6e3",
+      "iou": 0.29287885260310026,
+      "dice": 0.45306465027781045,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju34eqjpcpm508788b3lhp97",
+      "iou": 0.9389720542020072,
+      "dice": 0.9685256186824678,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju34fojcctcf0799ebolbvkn",
+      "iou": 0.8594508975712777,
+      "dice": 0.9244136521097166,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju34i3qvcyog0855qiejxx5w",
+      "iou": 0.9408166242861311,
+      "dice": 0.969505941481907,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju34m7h536wq0988xz7gx79v",
+      "iou": 0.3000926569376882,
+      "dice": 0.46164810690423164,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju34o6dbd2lo0855aqlcy1hs",
+      "iou": 0.8091685979142526,
+      "dice": 0.8945198350746567,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju34ouumcznz07996gg1xq7v",
+      "iou": 0.9057937350676931,
+      "dice": 0.950568488499643,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju34repocy5208780gswillm",
+      "iou": 0.24634611453142125,
+      "dice": 0.3953093152202557,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju34sh43d8zm08019xbwhc0o",
+      "iou": 0.9453070504043196,
+      "dice": 0.971884670039975,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju34uhepd3dd0799hs8782ad",
+      "iou": 0.7603800140745953,
+      "dice": 0.8638816709974015,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju34xspwzenf0993cyzajv9n",
+      "iou": 0.9262502702869675,
+      "dice": 0.9617133189541122,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju34ymm8d6700799uop0cw33",
+      "iou": 0.8911913854629687,
+      "dice": 0.9424655720338984,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju34zivp3fq80988opxbaqyn",
+      "iou": 0.875348627980207,
+      "dice": 0.9335316270479024,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju3518w2d838079939fqztbc",
+      "iou": 0.9133179641780458,
+      "dice": 0.9546954361769177,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju3521y5d5mq0878t3ezsu4p",
+      "iou": 0.8856262731653997,
+      "dice": 0.9393444350758853,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju353d1eda8c07992afde611",
+      "iou": 0.9429758059199683,
+      "dice": 0.9706511044006378,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju35740hzm0g0993zl5ic246",
+      "iou": 0.9013726890422915,
+      "dice": 0.9481283645620331,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju357rxxdaz30878y2esjpjt",
+      "iou": 0.7624686402408429,
+      "dice": 0.8652280362124922,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju358pwtdby20878cg7nm0np",
+      "iou": 0.9239455088511692,
+      "dice": 0.9604695191215449,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju35a77vdj4n08556jj2lgmc",
+      "iou": 0.9590650371970534,
+      "dice": 0.9791048474523772,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju35atpxdjot0855q46aqrd0",
+      "iou": 0.7259240170814313,
+      "dice": 0.8412004351257385,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju35c4wzdhow0799h6eq4sgs",
+      "iou": 0.9008670005847804,
+      "dice": 0.9478485347029948,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju35eg0tdmjt085525sb4bua",
+      "iou": 0.0912510312757819,
+      "dice": 0.16724113638472404,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju35fxqyzt5p0993vusm54qz",
+      "iou": 0.9194510739856802,
+      "dice": 0.9580354367423065,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju35i2e63uxr0835h7zgkg9k",
+      "iou": 0.41192651683555503,
+      "dice": 0.5834956875217203,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju35k2fr3vc50988c85qkrwg",
+      "iou": 0.07285473422663945,
+      "dice": 0.1358147229114971,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju35ldepdtlm0801yv79y8vu",
+      "iou": 0.8336182000353628,
+      "dice": 0.9092603902156794,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju35mdz73x890835eynq1h9v",
+      "iou": 0.2686053763087931,
+      "dice": 0.423465612435512,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju35oyvd3y850988km12hdz1",
+      "iou": 0.8260820474219044,
+      "dice": 0.9047589604072631,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju3tp94kfstl08181awh6z49",
+      "iou": 0.7718994737076667,
+      "dice": 0.871267794997965,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju3tsh4lfsok0987w6x3a0v1",
+      "iou": 0.804855207226355,
+      "dice": 0.8918778681013767,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju3ttznuftyf09875t11850w",
+      "iou": 0.867607662393778,
+      "dice": 0.9291112687787272,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju3tvffffx5f0818t5ov22al",
+      "iou": 0.8324031276224475,
+      "dice": 0.908537117269053,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju3tx1qyg0c907552fglumhc",
+      "iou": 0.9082101362566102,
+      "dice": 0.951897402702484,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju3u1c8tfyqx08503iedc3mx",
+      "iou": 0.47321145209220916,
+      "dice": 0.6424216312195632,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju3u39fog1bo0871lxjrabks",
+      "iou": 0.9694234735388166,
+      "dice": 0.9844743769575159,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju3u4lxmg59o0755rz42b9en",
+      "iou": 0.8145927036481759,
+      "dice": 0.8978242908289727,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju3u815rg4ek0850vvhtcvcm",
+      "iou": 0.7108914437518344,
+      "dice": 0.8310187608313852,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju3ua8u0g9rg0801uayhdxhu",
+      "iou": 0.4033255993812838,
+      "dice": 0.5748139983466519,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju3uhb79gcgr0871orbrbi3x",
+      "iou": 0.055790149500137574,
+      "dice": 0.10568416370725063,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju3ul8dogf1z09872y2ecowp",
+      "iou": 0.06260946065932992,
+      "dice": 0.11784096222987113,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju3umoh1geet0817cmpef5am",
+      "iou": 0.809539089848308,
+      "dice": 0.894746175299447,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju3uwz6ogsp10801h2r3bj5l",
+      "iou": 0.8957961228490525,
+      "dice": 0.9450342387058229,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju3uz4o6gr9z0850lhxyxvsj",
+      "iou": 0.8230119056000912,
+      "dice": 0.902914460483653,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju3v0fl3gwce0755qkjhzmd4",
+      "iou": 0.8262709843571157,
+      "dice": 0.9048722686113088,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju3v11mrgwwb0755u242ygye",
+      "iou": 0.84690953745395,
+      "dice": 0.9171099290780141,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju3v3ac9gyz30755hfqwyp1i",
+      "iou": 0.9098858816842289,
+      "dice": 0.952817014262494,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju3v56bwgy8v0871w14pz8fx",
+      "iou": 0.17500793451019447,
+      "dice": 0.2978838344323982,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju3v664kh0px0818y4y7wolf",
+      "iou": 0.07665974670669363,
+      "dice": 0.1424029215194157,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju3v72v5h1qz0818fggilwtq",
+      "iou": 0.9485656085554235,
+      "dice": 0.9736039724714697,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju3wstckialg0871xs0vevsj",
+      "iou": 0.3671168486762712,
+      "dice": 0.5370672580500151,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju3x2s11ibzi0817kk284k0j",
+      "iou": 0.8340625848697909,
+      "dice": 0.9095246713503019,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju3x4blzieu30850x10uuvbm",
+      "iou": 0.08246585434751075,
+      "dice": 0.15236666175898833,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju3x5u2tiihx0818914gzxy1",
+      "iou": 0.9675226586102719,
+      "dice": 0.9834932821497121,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju3x7xsaijq80818f0psavav",
+      "iou": 0.7839131425729855,
+      "dice": 0.8788691824337665,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju3x9lttikfb0818a0g104zn",
+      "iou": 0.8678287358267051,
+      "dice": 0.9292380175772402,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju3xeexgii1j0817zs68tb4g",
+      "iou": 0.39357228780991516,
+      "dice": 0.5648394292174657,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju3xga12iixg0817dijbvjxw",
+      "iou": 0.3635639870797507,
+      "dice": 0.5332554841938444,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju3xhpvvimda0987ygrpzni2",
+      "iou": 0.93293142426526,
+      "dice": 0.9653021442495127,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju3xiic0ilzp0850lusrb42j",
+      "iou": 0.9075965715627569,
+      "dice": 0.951560288053179,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju3xjqtpikx50817tppy6g84",
+      "iou": 0.6189105431724173,
+      "dice": 0.7646012879249031,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju3xl264ingx0850rcf0rshj",
+      "iou": 0.9508390102922528,
+      "dice": 0.9748000786080331,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju3xtufwiv9c0818djsc4cqd",
+      "iou": 0.9289632473944048,
+      "dice": 0.9631736101237025,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju3xuj20ivgp0818mij8bjrd",
+      "iou": 0.03423615977575333,
+      "dice": 0.06620569093847295,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju3xvoo2iqlc0817eku2r3wl",
+      "iou": 0.9382888051139158,
+      "dice": 0.9681620227474526,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju3xwpgviwlx0871rwm15q7v",
+      "iou": 0.09170273584212338,
+      "dice": 0.16799946144933903,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju3xzvnzj0hd0755xprz39nj",
+      "iou": 0.45036025967231824,
+      "dice": 0.6210322665267576,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju3y0pjrj1c30755nxekxccj",
+      "iou": 0.9381711118808451,
+      "dice": 0.968099365561612,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju3y21quj0ir0818kgjagr15",
+      "iou": 0.3224475232108875,
+      "dice": 0.4876526554762469,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju3y54kwj3nr0801biidlb4e",
+      "iou": 0.9772462077012836,
+      "dice": 0.9884921805842432,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju3y79ofj3va0871uqfb1mzo",
+      "iou": 0.6523411322513912,
+      "dice": 0.7895961911479457,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju3y9difj6th0801kd1rqm3w",
+      "iou": 0.9778919656167729,
+      "dice": 0.9888224257100245,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju3ya7goj6at0818v2l5ay7f",
+      "iou": 0.03752644764340139,
+      "dice": 0.07233829600900789,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju3yb47cj1xq0817zfotbni4",
+      "iou": 0.16019067558707722,
+      "dice": 0.2761454284331632,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju3yht87j83m08507yk1u1fg",
+      "iou": 0.9411411827138275,
+      "dice": 0.969678239887794,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju3ykamdj9u208503pygyuc8",
+      "iou": 0.8213668011885228,
+      "dice": 0.9019235451667884,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju40jl7skiuo0817p0smlgg8",
+      "iou": 0.3782801520333871,
+      "dice": 0.5489162003462178,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju40m0rjkpw80871z6n6yg1u",
+      "iou": 0.33032555333095637,
+      "dice": 0.49660859705185034,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju40poe4kt9s0755f9cnm3h5",
+      "iou": 0.9163842653201172,
+      "dice": 0.9563679705615223,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju40r6jrksyk0871wg98zgho",
+      "iou": 0.2098462482266784,
+      "dice": 0.34689738226532296,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju40sdwukv3k0755y99ug1k8",
+      "iou": 0.9343362348730703,
+      "dice": 0.9660535929880678,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju40taxlkrho0987smigg0x0",
+      "iou": 0.9390801830002408,
+      "dice": 0.968583136719235,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju40u30gkuzc0871rq7t666d",
+      "iou": 0.08230765040222267,
+      "dice": 0.1520965880110601,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju40w3hbkwpn08015rbs3wko",
+      "iou": 0.7184597140786613,
+      "dice": 0.8361670723993176,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju40wto5kxwi0755it190f2k",
+      "iou": 0.05741806979097191,
+      "dice": 0.10860050803240423,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju410dnfl0960755y8lu8d79",
+      "iou": 0.2580127452078958,
+      "dice": 0.4101909876362299,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju412uwlkva50850d1ps1ww7",
+      "iou": 0.9558891992551211,
+      "dice": 0.9774471883368046,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju414lf2l1lt0801rl3hjllj",
+      "iou": 0.16685737841237802,
+      "dice": 0.2859944694173397,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju418rckl3ur08012psrx1r1",
+      "iou": 0.89420480664093,
+      "dice": 0.9441479648936797,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju41kd7yl4nm0850gil5qqwh",
+      "iou": 0.915602210971248,
+      "dice": 0.9559419024756917,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju41lojblbs307555jdci937",
+      "iou": 0.8479804161566707,
+      "dice": 0.9177374486686979,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju41nz76lcxu0755cya2qefx",
+      "iou": 0.9525406009481064,
+      "dice": 0.9756935148857604,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju41p90plcsx08018cnzpndc",
+      "iou": 0.8657442034405385,
+      "dice": 0.928041691721788,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju41r6v2lcww0871ps8k8pf5",
+      "iou": 0.9111483237722585,
+      "dice": 0.9535087490999314,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju41s6nbleqy0755e2mslg0b",
+      "iou": 0.9231678050581502,
+      "dice": 0.9600491466528441,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju41z76wlgbz0801qdetlvby",
+      "iou": 0.8176865528486477,
+      "dice": 0.899700282831694,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju422cm8lfxn0818ojicxejb",
+      "iou": 0.9018812736821112,
+      "dice": 0.9484096469765816,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju424hy5lckr085073fva1ok",
+      "iou": 0.9397351776319678,
+      "dice": 0.9689314175135991,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju426tomlhll0818fc0i7nvh",
+      "iou": 0.9079250246629398,
+      "dice": 0.9517407790417097,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju428k5fldt108177s6g6f45",
+      "iou": 0.9593946679867054,
+      "dice": 0.9792765935945835,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju42dwedlmk60871jbgu4ehi",
+      "iou": 0.9402768454853867,
+      "dice": 0.9692192613370734,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju42g865lorv07552ytz6xxa",
+      "iou": 0.9677734517403794,
+      "dice": 0.9836228361394356,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju42m60jlpcm08186kqppzqv",
+      "iou": 0.7475802903651562,
+      "dice": 0.8555604506262194,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju42nm68lpyo0818xvvqmupq",
+      "iou": 0.19541359106437967,
+      "dice": 0.326938881279384,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju42py9mlqyd0818u3d1d7ga",
+      "iou": 0.8562481579722959,
+      "dice": 0.9225578533719684,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju42qet0lsq90871e50xbnuv",
+      "iou": 0.9347172333138418,
+      "dice": 0.9662572051553291,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju42romflni20817etb9a0fl",
+      "iou": 0.44589949504167425,
+      "dice": 0.6167779940041025,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju42tauqlo5p08171l3cuo4b",
+      "iou": 0.8747278750591576,
+      "dice": 0.9331785020069169,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju42u5bjlvi10801dc13sskp",
+      "iou": 0.13832579816367582,
+      "dice": 0.24303375779907688,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju42wamblrqn098798r2yyok",
+      "iou": 0.9531998399111765,
+      "dice": 0.9760392361638982,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju42xpi8lw4w0871ve317a1p",
+      "iou": 0.9354124377191364,
+      "dice": 0.9666285278413425,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju430pm2lz0y0755jkhcc3d1",
+      "iou": 0.2763106989288912,
+      "dice": 0.4329834407261138,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju439oazm2fu0871ma0vvrft",
+      "iou": 0.5317767264485258,
+      "dice": 0.6943266825596279,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju43b8daly4408170e5ev06g",
+      "iou": 0.9301795472287275,
+      "dice": 0.9638269647652635,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju43c92lm5cj0755lorsorfg",
+      "iou": 0.05507924030319446,
+      "dice": 0.10440777943345095,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju43eigtm6ev0801mv0m96t1",
+      "iou": 0.5056472305620142,
+      "dice": 0.6716675995522149,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju43gfosm63n08714rpih8pe",
+      "iou": 0.8716788216052748,
+      "dice": 0.9314405992558763,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju43h43am1dy08176gwfhmnt",
+      "iou": 0.9253984401492031,
+      "dice": 0.9612539626629095,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju43in5fm22c08175rxziqrk",
+      "iou": 0.9345358547934792,
+      "dice": 0.9661602833339528,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju43jcqim2cp08172dvjvyui",
+      "iou": 0.8727853616032529,
+      "dice": 0.9320719602977667,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju43kj2pm34f0850l28ahpni",
+      "iou": 0.8453066332916145,
+      "dice": 0.9161692892023874,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju43lcnum9y10755bjs7z87f",
+      "iou": 0.9339367952993489,
+      "dice": 0.9658400394153391,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju43mkj9m8wb0871qiadahub",
+      "iou": 0.8695867287543655,
+      "dice": 0.9302448668254487,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju43o6n7m9nk087191ijwqq9",
+      "iou": 0.9080490712610083,
+      "dice": 0.9518089287513857,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju45jpvfn6c809873pv1i34s",
+      "iou": 0.8532219570405728,
+      "dice": 0.9207984546039922,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju45lbgznahl08180xz1h7u6",
+      "iou": 0.11149130208426836,
+      "dice": 0.200615698701735,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju45n0oxn5vu08500yfrt9jn",
+      "iou": 0.9552505966587113,
+      "dice": 0.977113213304852,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju45ofd9ne1j0801ri8dup7t",
+      "iou": 0.678134997826753,
+      "dice": 0.8082007689547778,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju45pm27n80u08174kyow1gj",
+      "iou": 0.9175066544486625,
+      "dice": 0.956978847838702,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju45qbf3n9sa0987oonbkly9",
+      "iou": 0.8414932011228172,
+      "dice": 0.9139248525161341,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju45rj7ln8980850a7821fov",
+      "iou": 0.6790588922986994,
+      "dice": 0.8088565510278682,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju45t5ddnbio0987qtqzx762",
+      "iou": 0.9415284062342886,
+      "dice": 0.9698837299634876,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju45ty6zn9oz0850qy4qnck1",
+      "iou": 0.13648158180951644,
+      "dice": 0.24018265494845803,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju45v0pungu40871acnwtmu5",
+      "iou": 0.9375189566272368,
+      "dice": 0.9677520350657483,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju5b9oyda4yr0850g9viziyv",
+      "iou": 0.08194610788777021,
+      "dice": 0.151479093626483,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju5bbtwsa8cl0987wgfsqpao",
+      "iou": 0.8708865311994246,
+      "dice": 0.9309880815071127,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju5bdwa3aatx0818b79i18zf",
+      "iou": 0.9461629479377958,
+      "dice": 0.9723368219915751,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju5bf6hxa6m50817rbwettgu",
+      "iou": 0.9044437484775725,
+      "dice": 0.9498245870486771,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju5bhv81abur0850ean02atv",
+      "iou": 0.42960746909585956,
+      "dice": 0.6010145839089108,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju5bj926aiec07559rshy4wa",
+      "iou": 0.9296755433119069,
+      "dice": 0.9635563310465163,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju5bmhdcafs909878qfzrqzi",
+      "iou": 0.3475228801455393,
+      "dice": 0.5157951456943055,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju5boicjagt20871b1fotkh4",
+      "iou": 0.9434944166530643,
+      "dice": 0.970925780458765,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju5buy2bal250818ipl6fqwv",
+      "iou": 0.23975925542397028,
+      "dice": 0.3867835700762369,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju5bwhapakm90987c1v4z46a",
+      "iou": 0.046007946715097524,
+      "dice": 0.08796863706357437,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju5bycdkalkb09875f7bfrvx",
+      "iou": 0.294242991117333,
+      "dice": 0.4546951277878817,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju5c5xc7algd0817pb1ej5yo",
+      "iou": 0.5547280415145108,
+      "dice": 0.7136013845535741,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju5c7oijaqmq09878qwgqv8n",
+      "iou": 0.8819228032292101,
+      "dice": 0.9372571517980546,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju5ca9hcatkc0801jzwe7tfx",
+      "iou": 0.1961730310219177,
+      "dice": 0.3280010933774734,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju5ccpvqash50850kb4bs22k",
+      "iou": 0.2075203973040085,
+      "dice": 0.3437132784958872,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju5cetivauok0987ok3e5bre",
+      "iou": 0.7093740295461604,
+      "dice": 0.8299810542160857,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju5chrxxawka0871qcj171yz",
+      "iou": 0.7901513112955642,
+      "dice": 0.8827760048101383,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju5cjh3xattc0817j2vbulzi",
+      "iou": 0.07347127684748264,
+      "dice": 0.1368854079882779,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju5cky5xb0ay0801oxet697t",
+      "iou": 0.8211939582833853,
+      "dice": 0.9018193307179906,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju5clr68b48r0755cmuvponm",
+      "iou": 0.8775465094860933,
+      "dice": 0.9347800494447278,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju5cu8qkb84x08186jwo8yin",
+      "iou": 0.9003790750568612,
+      "dice": 0.9475783930423681,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju5ddda9bkkt0850enzwatb1",
+      "iou": 0.3444391667232137,
+      "dice": 0.5123908544894766,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju5eftctcdbj08712gdp989f",
+      "iou": 0.8452575157305989,
+      "dice": 0.9161404395049255,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju5ekty5ckzf07550c9u3ckk",
+      "iou": 0.9228047540855423,
+      "dice": 0.9598527901751674,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju5enq1tcn1i0755hnkon787",
+      "iou": 0.6900926443002993,
+      "dice": 0.8166329184705713,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju5eq8c8ck690850vix98hv3",
+      "iou": 0.38303250998773636,
+      "dice": 0.5539023952388983,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju5es375cnzy0801nkq35ffs",
+      "iou": 0.9098136996612721,
+      "dice": 0.9527774356447838,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju5ew4h9cqaf0818rrczkmqh",
+      "iou": 0.26766966200981557,
+      "dice": 0.42230191355284324,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju5eyfe9cpk90987laa7tsl3",
+      "iou": 0.3468893870929021,
+      "dice": 0.5150970679806468,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju5f0dezct4q08183ydw11dx",
+      "iou": 0.7797940166748406,
+      "dice": 0.8762744557729402,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju5f26ebcuai0818xlwh6116",
+      "iou": 0.9299151888974556,
+      "dice": 0.963685030562103,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju5f8hxdcxxn08188obby0ea",
+      "iou": 0.16288460556448098,
+      "dice": 0.2801388973335225,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju5fb86jd1jp0755b1ukbhq5",
+      "iou": 0.3871396795390615,
+      "dice": 0.5581841327871261,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju5fi0yxd3ei0801v7u0yudn",
+      "iou": 0.02945249900625536,
+      "dice": 0.057219733857922075,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju5fs6j6d8350801vglraq4u",
+      "iou": 0.9187786612544798,
+      "dice": 0.9576702928870293,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju5ft6mcd5q40987rhjgbrr6",
+      "iou": 0.9138662167707811,
+      "dice": 0.9549948776594478,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju5fu081d8gc0818l3yylujk",
+      "iou": 0.8438610448156988,
+      "dice": 0.9153195650923316,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju5fw37edaae0801vkwvocn7",
+      "iou": 0.9134776587214811,
+      "dice": 0.9547826749457163,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju5fydrud94708507vo6oy21",
+      "iou": 0.4582407418529507,
+      "dice": 0.628484349258649,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju5g163vd6mt0817uccuga6u",
+      "iou": 0.543267445219329,
+      "dice": 0.7040483448312744,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju5gucasds9d0801019axylx",
+      "iou": 0.8948685857321652,
+      "dice": 0.9445178335535006,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju5h57xedz5h0755mjpc8694",
+      "iou": 0.9682888088947776,
+      "dice": 0.9838889542215968,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju5hi52odyf90817prvcwg45",
+      "iou": 0.5551244008217302,
+      "dice": 0.7139292528988698,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju5hjxaae3i40850h5z2laf5",
+      "iou": 0.9530952769172237,
+      "dice": 0.9759844163072213,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju5hl8nee8a40755fm8qjj0o",
+      "iou": 0.8244152317472073,
+      "dice": 0.9037583302324008,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju5hqz50e7o90850e0prlpa0",
+      "iou": 0.8562083585705633,
+      "dice": 0.9225347516804803,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju5ht88gedbu0755xrcuddcx",
+      "iou": 0.26105391144400364,
+      "dice": 0.4140249819217909,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju5huurrecm70801y680y13m",
+      "iou": 0.9315088801257153,
+      "dice": 0.9645400957877932,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju5hwonqedw10801vsd3w6kk",
+      "iou": 0.8967136150234741,
+      "dice": 0.9455445544554455,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju5hyi9yegob0755ho3do8en",
+      "iou": 0.09792448145588264,
+      "dice": 0.1783810874242128,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju5i39mreass0817au8p22zy",
+      "iou": 0.8872755003579543,
+      "dice": 0.9402713066424773,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju5i5oh2efg60987ez6cpf72",
+      "iou": 0.9496236547991789,
+      "dice": 0.9741609899547459,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju5jx7jzf7c90871c2i9aiov",
+      "iou": 0.8601096987353721,
+      "dice": 0.9247945960607943,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju5jz5fff8c50871hbe6108f",
+      "iou": 0.9094268983392532,
+      "dice": 0.9525652949900706,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju5k3j3uf6de0817hszzfr7n",
+      "iou": 0.8598239334429718,
+      "dice": 0.924629388816645,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju5k503sfa5f0871lx0rpu5y",
+      "iou": 0.9593664178238502,
+      "dice": 0.9792618767952147,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju5k7r0yf98c09878csbxb4d",
+      "iou": 0.9163247362250879,
+      "dice": 0.9563355509673472,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju5klveuff6w0871wbibgh3m",
+      "iou": 0.8382933245642881,
+      "dice": 0.9120343455122758,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju5knbbqfipk080128cggukq",
+      "iou": 0.4619171495721129,
+      "dice": 0.6319334166198283,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju5kre09fhka0850h7b1898j",
+      "iou": 0.4225153871845031,
+      "dice": 0.5940398128427443,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju5ktjwofed70817eg58ef7u",
+      "iou": 0.24201595457003786,
+      "dice": 0.38971472738257884,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju5nxkujgscq0817l9gss626",
+      "iou": 0.241157227560826,
+      "dice": 0.3886006095049831,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju5nyu31gv8e0871zpk74a2n",
+      "iou": 0.8601098415504072,
+      "dice": 0.9247946786126383,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju5o1vu9gz8a0818eyy92bns",
+      "iou": 0.963208525206741,
+      "dice": 0.9812595176106499,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju5o4pk9h0720755lgp9jq8m",
+      "iou": 0.9317668774397925,
+      "dice": 0.9646783867364792,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju5tenjojp1j0755ms4949h2",
+      "iou": 0.8144929473895314,
+      "dice": 0.8977636959805475,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju5tgbzhjllu08174ca41eus",
+      "iou": 0.23825306923174283,
+      "dice": 0.3848212859743827,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju5thdbrjp1108715xdfx356",
+      "iou": 0.8450900786602386,
+      "dice": 0.9160420821013546,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju5u4pywk81x0817vn9pe14z",
+      "iou": 0.8927940940458995,
+      "dice": 0.9433610310327285,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju5u6wf0kh1t0755bg1ssixv",
+      "iou": 0.9612936083524318,
+      "dice": 0.9802648662685017,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju5u8gz4kj5b07552e2wpkwp",
+      "iou": 0.2852319791437227,
+      "dice": 0.4438606940573586,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju5udcufki0s09874ll1dbr5",
+      "iou": 0.9045689205777995,
+      "dice": 0.9498936066890932,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju5ufn3skquf0818dhapnhba",
+      "iou": 0.8857017927415829,
+      "dice": 0.9393869127672402,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju5uget8krjy0818kvywd0zu",
+      "iou": 0.869832820427514,
+      "dice": 0.9303856590009342,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju5uhrdwkmsu0817ervv91l8",
+      "iou": 0.849177760375881,
+      "dice": 0.9184382146184467,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju5ukkg6kv7u08011x2b6zl5",
+      "iou": 0.191877047564862,
+      "dice": 0.3219745660123052,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju5uxjnol2r509871qv2yeia",
+      "iou": 0.30051020408163265,
+      "dice": 0.46214201647704983,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju5uzmaol56l0817flxh4w9p",
+      "iou": 0.8535107925944885,
+      "dice": 0.9209666283084005,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju5v8pgplg6k0755rvi2t63h",
+      "iou": 0.8973132969034608,
+      "dice": 0.9458778351134045,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju5vbo6jldrt0871jf6f1700",
+      "iou": 0.7507241606319948,
+      "dice": 0.8576155827551846,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju5vcmrqla7i0817x4sp4pqw",
+      "iou": 0.8576103072754231,
+      "dice": 0.923347920623125,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju5vgawslbe30987ndeepc1b",
+      "iou": 0.38521236279083815,
+      "dice": 0.5561780606906174,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju5vi4nxlc530817uoqm2m7a",
+      "iou": 0.9700572317012692,
+      "dice": 0.9848010667827791,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju5von04litr08718j8po40a",
+      "iou": 0.9213831601798729,
+      "dice": 0.9590832055524171,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju5vutu7ll8w0871dfp92n9p",
+      "iou": 0.5195114131165514,
+      "dice": 0.6837874446115834,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju5vwbr4lhqn0987a1pji0ux",
+      "iou": 0.9193744792668077,
+      "dice": 0.9579938560170963,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju5vxuc5loxw0818u8xgf45p",
+      "iou": 0.9358420227997191,
+      "dice": 0.966857844573757,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju5vzjoslpj708186z2fusmz",
+      "iou": 0.9370746194777874,
+      "dice": 0.9675152521800237,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju5w7xn0lrkq0801f9k0htgx",
+      "iou": 0.8895673973131066,
+      "dice": 0.9415566743774664,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju5waeduln160817w0agirve",
+      "iou": 0.10721671463596631,
+      "dice": 0.19366888743405092,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju5wcc90lu020850mjrxppv6",
+      "iou": 0.128901951647879,
+      "dice": 0.2283669568640898,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju5wi6bqlxy90755bu227nvb",
+      "iou": 0.8101106382978723,
+      "dice": 0.8950951628676748,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju5wj0faly5008187n6530af",
+      "iou": 0.09957694102768702,
+      "dice": 0.18111864174710754,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju5wkonqlrl409877y8zvnub",
+      "iou": 0.9368558670220895,
+      "dice": 0.9673986412447951,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju5wmvsdlx1j0871npgj8j4b",
+      "iou": 0.05115090569838675,
+      "dice": 0.09732362008364914,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju5woy82m07m08505dmjg7g1",
+      "iou": 0.9460839055937063,
+      "dice": 0.9722950823182286,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju5wphwwlu3m0987hh3ltg88",
+      "iou": 0.054565940551561325,
+      "dice": 0.10348511829051132,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju5wqonpm0e60801z88ewmy1",
+      "iou": 0.048516052710291684,
+      "dice": 0.09254231746835605,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju5wrapcm2290818jsh26ppb",
+      "iou": 0.1120582867790483,
+      "dice": 0.201533117663486,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju5wrrs0m2af0818vmnajbtw",
+      "iou": 0.8869876133316307,
+      "dice": 0.9401096298301415,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju5wtdu4m0im0871mix0yvc0",
+      "iou": 0.12889104025748485,
+      "dice": 0.22834983299732195,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju5wuhm1lwm40987vugqn3vv",
+      "iou": 0.8761655834981633,
+      "dice": 0.9339960088858767,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju5x00l6m5j608503k78ptee",
+      "iou": 0.44940528781399586,
+      "dice": 0.6201237039666004,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju5x15djm7ae0755h8czf6nt",
+      "iou": 0.9021815848572345,
+      "dice": 0.9485756691572077,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju5x28nzm7t907558ocq4bt7",
+      "iou": 0.18953526925675818,
+      "dice": 0.318671121664485,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju5x7iskmad90818frchyfwd",
+      "iou": 0.20852365063033088,
+      "dice": 0.3450882413787616,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju5xjn5mm78b09871spyqhhr",
+      "iou": 0.63824027695934,
+      "dice": 0.7791778604588424,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju5xkwzxmf0z0818gk4xabdm",
+      "iou": 0.2397154501261011,
+      "dice": 0.3867265671355758,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju5xneamme2p0801qdf7fdwv",
+      "iou": 0.9150622274226146,
+      "dice": 0.9556475129835865,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju5xopi0md7q0871r1sjc1av",
+      "iou": 0.7790800661313179,
+      "dice": 0.875823501103533,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju5xq3tdm9fn0987pbedxdg5",
+      "iou": 0.09155593503744419,
+      "dice": 0.16775307998174827,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju5y4hgqmk0i08180rjhbwvp",
+      "iou": 0.8596022024946623,
+      "dice": 0.9245011662617986,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju5y7buemcw80987p0r30g9f",
+      "iou": 0.9425699300699301,
+      "dice": 0.9704360347387841,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju5y84q3mdv50817eyp82xf3",
+      "iou": 0.902762045830792,
+      "dice": 0.9488964190859969,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju5yclrymlgj0818k426ud6z",
+      "iou": 0.915399891677198,
+      "dice": 0.955831621015326,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju5yeqiwmkgl0801fzv2douc",
+      "iou": 0.22380813880420694,
+      "dice": 0.36575690536409033,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju5ygh1zmmdi0755uod5e17i",
+      "iou": 0.9366369390103567,
+      "dice": 0.9672819103502062,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju5yhgznmkzb0801cji2vi8j",
+      "iou": 0.033567920807393375,
+      "dice": 0.06495542311563053,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju5yimthmlv80850zhoc90c2",
+      "iou": 0.8896547479844914,
+      "dice": 0.9416056016935352,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju5yjq1pmlgc0801z0t24bly",
+      "iou": 0.2540006144050046,
+      "dice": 0.40510444969043696,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju5ymyd8mmdc0801ry3by1xr",
+      "iou": 0.8330680813439434,
+      "dice": 0.9089330503569362,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju6ur9l9v9jq0755paud9uka",
+      "iou": 0.8554971479700257,
+      "dice": 0.9221217600964436,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju6us80mv1b50871ebyq2wxa",
+      "iou": 0.8602620087336245,
+      "dice": 0.9248826291079812,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju6ut4l8va6y0755tyw3vfqq",
+      "iou": 0.6269679125105155,
+      "dice": 0.7707194563451026,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju6uy20suzbl0987rzuhz7z9",
+      "iou": 0.2130004822190714,
+      "dice": 0.3511960388167478,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju6uzxk0v83p0801rcwnexdu",
+      "iou": 0.9354772090278802,
+      "dice": 0.9666631099187537,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju6v1m1xv07w09870ah3njy1",
+      "iou": 0.11136535092368026,
+      "dice": 0.20041177427588877,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju6v3bb2v7xo085090blubyw",
+      "iou": 0.14134731978216727,
+      "dice": 0.24768502511425572,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju6v4szov55u0871qmqz3v8n",
+      "iou": 0.5346566704217328,
+      "dice": 0.6967769152885589,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju6v5ilsv8hk0850rb5sgh6o",
+      "iou": 0.6742022606782034,
+      "dice": 0.8054012069068531,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju6v6g6kvdw007552x6mb0po",
+      "iou": 0.9321017591816939,
+      "dice": 0.9648578339646753,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju6vgdmivcvb08018fra5lnv",
+      "iou": 0.9295048213157198,
+      "dice": 0.9634646268278252,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju6vifjlv55z0987un6y4zdo",
+      "iou": 0.947958928369939,
+      "dice": 0.9732843075528245,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju6vqarjv7yo0987q4b1btk1",
+      "iou": 0.8273037542662116,
+      "dice": 0.9054912215166231,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju6vrs1ov8cr098788h8gs6j",
+      "iou": 0.9036081878108014,
+      "dice": 0.9493636280793415,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju6vta3kvazg0817qbeppjtm",
+      "iou": 0.8420118720878279,
+      "dice": 0.9142306679418409,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju6vucxvvlda0755j7msqnya",
+      "iou": 0.05574251571316986,
+      "dice": 0.10559869453683024,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju6vvb8svhed0801jjcquh5e",
+      "iou": 0.019664153641178954,
+      "dice": 0.038569863559406434,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju6vvxsev9y30987kespucdg",
+      "iou": 0.931910477393737,
+      "dice": 0.9647553427537078,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju6w733bveoz0817e600tw72",
+      "iou": 0.2168967114404817,
+      "dice": 0.3564751377850857,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju6wi3akvn8r0801px8eligc",
+      "iou": 0.7440860913027755,
+      "dice": 0.8532676167917461,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju6wjm81vgsc0987enk9n3pr",
+      "iou": 0.9677254870148683,
+      "dice": 0.9835980612142735,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju6wll7wvo3y08502pagos8m",
+      "iou": 0.9041533546325878,
+      "dice": 0.9496644295302014,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju6wn57mvooj0850rp78hhy7",
+      "iou": 0.6739494848661782,
+      "dice": 0.8052208157524613,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju6wt9jvvn500871hjn3t3g0",
+      "iou": 0.8837205467706564,
+      "dice": 0.9382713888062184,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju6wuojavt740818b5qcv3iw",
+      "iou": 0.33581351930152104,
+      "dice": 0.5027850286724355,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju6x0yqbvxqt0755dhxislgb",
+      "iou": 0.7973230117199326,
+      "dice": 0.8872339657599345,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju6x35ervu2808015c7eoqe4",
+      "iou": 0.9291986746110756,
+      "dice": 0.9633001378651694,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju6x4t13vyw60755gtcf9ndu",
+      "iou": 0.9408649348780312,
+      "dice": 0.9695315917870994,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju6x97w4vwua0850x0997r0a",
+      "iou": 0.09812632159602831,
+      "dice": 0.17871590848202326,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju6xa0qmvzun0818xjukgncj",
+      "iou": 0.897233656697084,
+      "dice": 0.9458335862110822,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju6xifswvwbo0987nibtdr50",
+      "iou": 0.41731947714785966,
+      "dice": 0.58888554609812,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju6xlygpw7bs0818n691jsq4",
+      "iou": 0.439593980027193,
+      "dice": 0.6107193918925521,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju6xmqd9w0250817l5kxfnsk",
+      "iou": 0.961943123025105,
+      "dice": 0.9806024565502106,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju6ywm40wdbo0987pbftsvtg",
+      "iou": 0.9229610057180604,
+      "dice": 0.9599373081134466,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju6yxyt0wh080871sqpepu47",
+      "iou": 0.5763487475915221,
+      "dice": 0.7312452253628724,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju6yywx1whbb0871ksgfgf9f",
+      "iou": 0.8918224890592789,
+      "dice": 0.9428183608312463,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju6z1bzbwfq50817b2alatvr",
+      "iou": 0.9485877608228157,
+      "dice": 0.973615640921672,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju6z2616wqbk07555bvnuyr1",
+      "iou": 0.8254385648931954,
+      "dice": 0.9043728786802431,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju6z600qwh4z081700qimgl9",
+      "iou": 0.8629271437782076,
+      "dice": 0.9264207101820447,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju6z7e4bwgdd0987ogkzq9kt",
+      "iou": 0.8577922211481108,
+      "dice": 0.9234533457331385,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju6z9a9kwsl007552s49rx6i",
+      "iou": 0.5532006413013726,
+      "dice": 0.7123363544813696,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju76erapykj30871x5eaxh4q",
+      "iou": 0.7772729933844623,
+      "dice": 0.8746804753998999,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju76l27oyrw907551ri2a7fl",
+      "iou": 0.32315020227065117,
+      "dice": 0.48845581055891435,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju76lsehyia10987u54vn8rb",
+      "iou": 0.9001870518549309,
+      "dice": 0.9474720406879769,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju76o55nymqd0871h31sph9w",
+      "iou": 0.8294797687861272,
+      "dice": 0.9067930489731437,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju77196iyshb0850ycbto50a",
+      "iou": 0.6931221764549561,
+      "dice": 0.8187503372098156,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju772304yw5t0818vbw8kkjf",
+      "iou": 0.8736998514115899,
+      "dice": 0.9325931800158604,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju773hsyyosz0817pk1e7sjq",
+      "iou": 0.936457014211341,
+      "dice": 0.9671859559379178,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju774fmayxif0818u2g79usw",
+      "iou": 0.9106734566618166,
+      "dice": 0.953248660556447,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju7787c5yy3l080159mwqsnj",
+      "iou": 0.8415138344111099,
+      "dice": 0.9139370214725693,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju77afzlz3kp07550x5nafzs",
+      "iou": 0.6108465321717452,
+      "dice": 0.7584167951098373,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju77b3wyz4160755qis4ljsb",
+      "iou": 0.8127147766323024,
+      "dice": 0.8966824644549763,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju77bvg0yv4r0987yh60xmjo",
+      "iou": 0.9192527404662653,
+      "dice": 0.9579277612420561,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju77g99iyxc00817zqi2ppor",
+      "iou": 0.9603231759463474,
+      "dice": 0.9797600596980656,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju77idwfz36d0871tzfzz51i",
+      "iou": 0.4359794601870968,
+      "dice": 0.6072224182514312,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju77j66ez52p08019xygi0co",
+      "iou": 0.039098368850504876,
+      "dice": 0.07525441290752322,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju77k828z46w0871r0avuoo9",
+      "iou": 0.8876930276087974,
+      "dice": 0.940505701536936,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju77q10sz9ug0801449wu1nu",
+      "iou": 0.11598689325385977,
+      "dice": 0.20786425710731998,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju77re6fz5bb0817vp9redjg",
+      "iou": 0.912384011420414,
+      "dice": 0.9541849398152468,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju77t0razbvm080106o56289",
+      "iou": 0.6685492242404477,
+      "dice": 0.8013539121625648,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju77u1sjz77b0817ft44r3fk",
+      "iou": 0.9006985769728331,
+      "dice": 0.9477553020609295,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju77vvcwzcm50850lzoykuva",
+      "iou": 0.9035828835171712,
+      "dice": 0.9493496619886165,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju783tmkzkqu081803g7q5vk",
+      "iou": 0.9167519617877857,
+      "dice": 0.9565681737273051,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju784jpdzeae0987q5ypq883",
+      "iou": 0.8467370298795898,
+      "dice": 0.9170087740481365,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju785htizjzo08017tvlhtg4",
+      "iou": 0.8538988426628876,
+      "dice": 0.9211924868957484,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju787jnjzjuj0871p94nck9g",
+      "iou": 0.9501310509591074,
+      "dice": 0.9744278985679623,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju7adqyj1jcx08712r1ro5gx",
+      "iou": 0.945409339867397,
+      "dice": 0.9719387282594603,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju7ae7bq1f820987toc8si1d",
+      "iou": 0.8104620924184837,
+      "dice": 0.8953096514004751,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju7aez2x1jtj0871ztezs3oi",
+      "iou": 0.4869449614464238,
+      "dice": 0.6549603032687218,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju7afqon1ip40850ue2308b6",
+      "iou": 0.8940963231486276,
+      "dice": 0.9440874914559125,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju7agj961l2r0818z29iq8yn",
+      "iou": 0.8640690620625292,
+      "dice": 0.9270783788519789,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju7ahtkb1jr90801jck4kbds",
+      "iou": 0.23856670056808285,
+      "dice": 0.3852302834537074,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju7aifyo1p3n07552nxjx51f",
+      "iou": 0.9259716224552745,
+      "dice": 0.9615631005765535,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju7ajnbo1gvm098749rdouk0",
+      "iou": 0.27941117919799047,
+      "dice": 0.4367808938063863,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju7aklv31h4309871m29l4e7",
+      "iou": 0.950556056507364,
+      "dice": 0.9746513598890515,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju7alcgr1lsr0871riqk84z7",
+      "iou": 0.6830874359372573,
+      "dice": 0.8117076051451455,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju7amjna1ly40871ugiokehb",
+      "iou": 0.9010970504739451,
+      "dice": 0.9479758545196847,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju7ap09p1kz10850ldccjebj",
+      "iou": 0.8151071025930101,
+      "dice": 0.8981366459627329,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju7apr0c1qqm0755s7msqot4",
+      "iou": 0.9248805693672614,
+      "dice": 0.9609744979360296,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju7aqkue1i2k09879uzcpt8r",
+      "iou": 0.6951534270146258,
+      "dice": 0.8201657925900863,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju7arvfe1ldu0850erdmphgj",
+      "iou": 0.38024489038681547,
+      "dice": 0.5509817758213201,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju7atnm31if40817pqclnjer",
+      "iou": 0.6517290312943461,
+      "dice": 0.7891476373502148,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju7avvi51iox0817ym55y6tt",
+      "iou": 0.6954972272982572,
+      "dice": 0.8204050305720865,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju7awzmu1ncs0871hziy65zx",
+      "iou": 0.9189643443114971,
+      "dice": 0.9577711509186078,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju7azuu31mia0801pf9ib5ed",
+      "iou": 0.8877419354838709,
+      "dice": 0.9405331510594669,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju7b10ce1mnm08011c5bwyr4",
+      "iou": 0.8725973956570533,
+      "dice": 0.9319647647495292,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju7b1ygu1msd0801hywhy0mc",
+      "iou": 0.1835692190584223,
+      "dice": 0.3101960005422566,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju7b2l561oas0871decgslaf",
+      "iou": 0.8184424992453969,
+      "dice": 0.9001576894348079,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju7b3f5h1sm40755i572jden",
+      "iou": 0.9308775686694395,
+      "dice": 0.9642015462543322,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju7b4mtw1n9n080186209f3d",
+      "iou": 0.8962236318041009,
+      "dice": 0.9452720837060952,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju7b5afm1nfw0801xqm8bf8q",
+      "iou": 0.7307436182019977,
+      "dice": 0.8444273438501988,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju7b9vcs1luz0987ta60j1dy",
+      "iou": 0.6595364056145072,
+      "dice": 0.794844154527949,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju7bb3ss1uoo0755pmhyco7t",
+      "iou": 0.23187867724785874,
+      "dice": 0.3764634968208056,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju7bc95p1mdm0817yqj5jc6j",
+      "iou": 0.09669800961574197,
+      "dice": 0.1763439137627737,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju7bd1qu1mx409877xjxibox",
+      "iou": 0.9024407474126664,
+      "dice": 0.9487189008540661,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju7bduyq1rjf08719giru9ho",
+      "iou": 0.9193607258316822,
+      "dice": 0.9579863893831755,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju7bf1lp1shi081835vs84lc",
+      "iou": 0.9248541888741562,
+      "dice": 0.9609602578937179,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju7bfx651qr80801cs7epotb",
+      "iou": 0.6861692798765302,
+      "dice": 0.8138794699506979,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju7bgnvb1sf808717qa799ir",
+      "iou": 0.914694542027247,
+      "dice": 0.9554469623742526,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju7bmi1v1pnj0987pa52jjok",
+      "iou": 0.8966317705962676,
+      "dice": 0.945499052053085,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju7cl8zm1xcu0817ado0jpas",
+      "iou": 0.8623088746865141,
+      "dice": 0.9260642919200696,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju7cp6dw244p0818gncdol4m",
+      "iou": 0.821035843196508,
+      "dice": 0.9017239789803633,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju7cq6su27qv075574dir0r3",
+      "iou": 0.9471142684682174,
+      "dice": 0.9728389173721236,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju7crgxa28550755wbsgqkel",
+      "iou": 0.29169477847891945,
+      "dice": 0.45164660156390024,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju7csvlb22fr0850lvm45n3x",
+      "iou": 0.37236363356048224,
+      "dice": 0.5426603043894658,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju7ctvqn25dy08186g442m1r",
+      "iou": 0.8414642160835943,
+      "dice": 0.9139077574618432,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju7cue9b232j0801qdzk1ykj",
+      "iou": 0.10035407291252717,
+      "dice": 0.18240323798120722,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju7cufm7298k0755j09uf3of",
+      "iou": 0.5851735788082064,
+      "dice": 0.7383085191820596,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju7d1tvt25bu08019dvw3uff",
+      "iou": 0.8992771655409408,
+      "dice": 0.9469678063389069,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju7d2q1k27nf08715zshsckt",
+      "iou": 0.27132218472502406,
+      "dice": 0.4268346576264752,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju7d3oc82cho0755dajlwldz",
+      "iou": 0.8967699881640565,
+      "dice": 0.945575893503111,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju7d4jk723eu0817bqz2n39m",
+      "iou": 0.950673191634407,
+      "dice": 0.9747129306040938,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju7d5m0p23kn09871rk7pu3v",
+      "iou": 0.9737264568877037,
+      "dice": 0.9866883564231458,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju7d6ux323ze0987xos3srkx",
+      "iou": 0.930784195125141,
+      "dice": 0.9641514546008738,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju7d7aut2a2p0818z4uxc6cd",
+      "iou": 0.8756495251746998,
+      "dice": 0.9337027130301873,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju7d7tly27h408016fyp5nr7",
+      "iou": 0.8992216022594199,
+      "dice": 0.9469369990207102,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju7d8m3b2e210755l8fj1yph",
+      "iou": 0.3079830030301975,
+      "dice": 0.4709281425166762,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju7d9seq29zd0871nzl2uu5m",
+      "iou": 0.2695947373405503,
+      "dice": 0.42469416328123205,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju7da88w2eod0755wejzynvt",
+      "iou": 0.8791598734055817,
+      "dice": 0.9356946003878739,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju7db7lp2f400755tntd1ohf",
+      "iou": 0.2886006348596933,
+      "dice": 0.4479287485235749,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju7dbppn28nx085097654msi",
+      "iou": 0.9165876683651302,
+      "dice": 0.956478728830588,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju7dda8w2br20818zhsuz8s7",
+      "iou": 0.9604327666151469,
+      "dice": 0.9798170923998738,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju7ddtz729960801uazp1knc",
+      "iou": 0.8149318550949791,
+      "dice": 0.8980302514469141,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju7deifq2fzn0755lc8idyh8",
+      "iou": 0.4465657034682287,
+      "dice": 0.6174150298151829,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju7dff9529h208503w60lbil",
+      "iou": 0.7750524246006523,
+      "dice": 0.8732727144946404,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju7dglf226g50987ohbthl19",
+      "iou": 0.4126915527704248,
+      "dice": 0.5842627882372436,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju7dhpsc2dnn0818025m6857",
+      "iou": 0.9587166497804795,
+      "dice": 0.9789232657903085,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju7dizi82h2i0755doucgnt3",
+      "iou": 0.9451868991103841,
+      "dice": 0.9718211648892535,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju7dlk532dsh0871zvr6qz0r",
+      "iou": 0.8144558599096902,
+      "dice": 0.897741166269239,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju7dmlgf2ebw0871ieqas5fh",
+      "iou": 0.10566447569377665,
+      "dice": 0.1911329847646138,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju7dn24o296i09871qfxb8s2",
+      "iou": 0.9251013334899841,
+      "dice": 0.9610936498733637,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju7do8c72dbo0801vxfzxdc4",
+      "iou": 0.05012336571758024,
+      "dice": 0.0954618616324749,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju7dp3dw2k4n0755zhe003ad",
+      "iou": 0.9126710024669208,
+      "dice": 0.9543418615013015,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju7dqcwi2dz00850gcmr2ert",
+      "iou": 0.8708511702896536,
+      "dice": 0.9309678761403821,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju7druhp2gp308715i6km7be",
+      "iou": 0.4070272858537454,
+      "dice": 0.5785634577893385,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju7dsrtb2f8i085064kwugfk",
+      "iou": 0.8970054796635023,
+      "dice": 0.9457067881771395,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju7dtb1e2j0t0818deq51ib3",
+      "iou": 0.8791699649440236,
+      "dice": 0.9357003159319994,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju7dubap2g0w0801fgl42mg9",
+      "iou": 0.2799943406904358,
+      "dice": 0.4374930916325854,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju7dvl5m2n4t0755hlnnjjet",
+      "iou": 0.8531947261663286,
+      "dice": 0.9207825967984676,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju7dwe282dc309876rco45ts",
+      "iou": 0.421394198391027,
+      "dice": 0.5929307983218615,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju7dxffn2eam0817qxosfwch",
+      "iou": 0.21355105388691625,
+      "dice": 0.3519440788303511,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju7dymur2od30755eg8yv2ht",
+      "iou": 0.781583392127937,
+      "dice": 0.8774030961238449,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju7dz5yy2i7z0801ausi7rna",
+      "iou": 0.8720626631853786,
+      "dice": 0.9316596931659693,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju7ea4om2l910801bohqjccy",
+      "iou": 0.9281452658884566,
+      "dice": 0.9627337548769003,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju7ebe962hr409872ovibahw",
+      "iou": 0.561038748067282,
+      "dice": 0.7188018218790566,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju7ecl9i2i060987xawjp4l0",
+      "iou": 0.9010230541973604,
+      "dice": 0.9479349050585665,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju7eea9b2m0z0801ynqv1fqu",
+      "iou": 0.12395653249906198,
+      "dice": 0.2205717550721481,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju7efffp2ivf0817etg3jehl",
+      "iou": 0.8196247492332177,
+      "dice": 0.9008722810333329,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju7ehljc2or70871261br8ai",
+      "iou": 0.9195616637403887,
+      "dice": 0.9580954663874293,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju7ejm2l2ncl0801wq6y84nw",
+      "iou": 0.8062906071167334,
+      "dice": 0.8927584564078133,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju7ekbo32pft0871fv7kzwb9",
+      "iou": 0.9128374655647383,
+      "dice": 0.9544328590356588,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju7el6xv2k520817qxx9wdr5",
+      "iou": 0.901690473354198,
+      "dice": 0.9483041388578848,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju7emdni2py40871ivhxjtut",
+      "iou": 0.9405842095332841,
+      "dice": 0.9693825239972423,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju7eotqi2qea0871y8yc7tqh",
+      "iou": 0.8219388197341594,
+      "dice": 0.902268298837926,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju7epwj82koz098713apjnzo",
+      "iou": 0.6069842896174863,
+      "dice": 0.7554327612772966,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju7er4kc2opa0801anuxc0eb",
+      "iou": 0.3161440511583553,
+      "dice": 0.48040949754719153,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju7es23b2vcp0755gpbm9s7v",
+      "iou": 0.921033716675379,
+      "dice": 0.9588938587390942,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju7et17a2vjk0755e743npl1",
+      "iou": 0.05048157729352099,
+      "dice": 0.09611130434782608,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju7etr3y2p4t0801cdzjj8ab",
+      "iou": 0.10239839926452694,
+      "dice": 0.1857738533235222,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju7eueum2oqn0850rodmx8zo",
+      "iou": 0.8922253074176913,
+      "dice": 0.9430434144603065,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju7ev2b12owa08500bpfpwyw",
+      "iou": 0.8162803575666482,
+      "dice": 0.8988484119932403,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju7evxt12m730987rxivne3x",
+      "iou": 0.451703967221529,
+      "dice": 0.6223086488990759,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju7ey10f2rvf0871bwbi9x82",
+      "iou": 0.5311839472423414,
+      "dice": 0.6938212070457014,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju7ez7r22qbc08015xfoz2wb",
+      "iou": 0.937109564957169,
+      "dice": 0.9675338782170426,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju7ezs7g2mxm098787atbran",
+      "iou": 0.20491836651602133,
+      "dice": 0.34013651415827534,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju7f0ec32txj08184asb8w5f",
+      "iou": 0.08687555583944655,
+      "dice": 0.15986293071491217,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju7f4sc62xqj075597xpmuoy",
+      "iou": 0.931079894644425,
+      "dice": 0.9643100704705615,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju7f5ghb2r5s0801chwkxxh9",
+      "iou": 0.9410997366536219,
+      "dice": 0.9696562406175379,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju7f6cqy2ur20818t1saazbm",
+      "iou": 0.3253199283233694,
+      "dice": 0.49093041064420406,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju7f900s2o0k08175gl1giid",
+      "iou": 0.20430716343966432,
+      "dice": 0.33929410974544966,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju7f9umg2olj0987fj5y285w",
+      "iou": 0.9343877784004816,
+      "dice": 0.9660811434335197,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju7fazv92ywx0755xov2erga",
+      "iou": 0.9498473411130051,
+      "dice": 0.9742786741148838,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju7fbndk2sl608015ravktum",
+      "iou": 0.9260035949670461,
+      "dice": 0.9615803390885053,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju7fcgbe2z3p07550vaflqdb",
+      "iou": 0.9283180467226998,
+      "dice": 0.9628266958351978,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju7fd6yt2p740987wkr8exo1",
+      "iou": 0.9169488149770962,
+      "dice": 0.9566753246753247,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju7fen322ou10817ziqkob4k",
+      "iou": 0.20096001505905975,
+      "dice": 0.33466562173458725,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju7ff97z2ow40817u2r83my5",
+      "iou": 0.6688629117959617,
+      "dice": 0.8015792154865002,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju7flevb2wii08188otgs9p2",
+      "iou": 0.8144016345820156,
+      "dice": 0.8977082240885763,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju7fmvpk2q170987v6i3ola8",
+      "iou": 0.21292119738125875,
+      "dice": 0.351088261695753,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju7fnfv02tt90801djnix9m8",
+      "iou": 0.8933141394753679,
+      "dice": 0.943651262988933,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju7fob3x301u0755x985pmmq",
+      "iou": 0.9293344961029051,
+      "dice": 0.9633731195705911,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju7fpfzq2wyf0818xxd1oziv",
+      "iou": 0.23458093903030258,
+      "dice": 0.3800171080148919,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju7fq7mm2pw508176uk5ugtx",
+      "iou": 0.7019735345894997,
+      "dice": 0.8248935959615956,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju7frtqu2xa20818wq8r9fzf",
+      "iou": 0.8910772597493631,
+      "dice": 0.9424017502780013,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju7g7ba42z310987bqzbi2bq",
+      "iou": 0.9463797191318621,
+      "dice": 0.9724512743628186,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju83h9ysjwe808716nt35oah",
+      "iou": 0.37772899500811935,
+      "dice": 0.5483356979155298,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju83ipu3jwpx0801z5pvguf8",
+      "iou": 0.9089369333466175,
+      "dice": 0.9522964509394573,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju83k8fyjsxr0817d6nxs6r4",
+      "iou": 0.8824679796171326,
+      "dice": 0.9375649298391935,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju83kxitjv340987z09m0ezy",
+      "iou": 0.8195292066259808,
+      "dice": 0.9008145663632008,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju83mki1jv5w0817kubxm31r",
+      "iou": 0.32580199384455516,
+      "dice": 0.4914791128044632,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju83nwu1jxte0987h1krpfmv",
+      "iou": 0.9485268129679015,
+      "dice": 0.973583536706022,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju83qd0yjyht0817ktkfl268",
+      "iou": 0.7358174357046644,
+      "dice": 0.8478050981276788,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju83rcnzkbsj0755x5anfrcg",
+      "iou": 0.8963968818479002,
+      "dice": 0.9453684409926122,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju83syhdk6gs0801rf1rekdl",
+      "iou": 0.969386468251466,
+      "dice": 0.9844552949651805,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju83u9ftk3ni0987qnhlcinv",
+      "iou": 0.6145717886043087,
+      "dice": 0.7612814653915955,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju83vvmik9wa08710yeh7cuk",
+      "iou": 0.9315068493150684,
+      "dice": 0.9645390070921985,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju83wwn1k55e0850kw6i2d81",
+      "iou": 0.9531704353109675,
+      "dice": 0.9760238206341799,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju83yddek68q0850d2x7zfkm",
+      "iou": 0.8328428287089805,
+      "dice": 0.9087989604603676,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju8402x1kcy70801t6kz6bdi",
+      "iou": 0.9466111321469141,
+      "dice": 0.9725734292939117,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju8418jhkf7d0818ga2v0xq0",
+      "iou": 0.5114680146645538,
+      "dice": 0.6767831137704439,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju8432cmkgq90871cxe4iptl",
+      "iou": 0.9336342588088798,
+      "dice": 0.9656782347081493,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju843yjskhq30818qre4rwm2",
+      "iou": 0.8380152671755725,
+      "dice": 0.9118697566243044,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju846ec0kj7z08012o10klrb",
+      "iou": 0.9340248834552808,
+      "dice": 0.9658871418309521,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju847pxykriq0755268ktrk2",
+      "iou": 0.27138990278487835,
+      "dice": 0.4269184491561879,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju849c23kgnk0817cgv2hw1e",
+      "iou": 0.8390853340292276,
+      "dice": 0.9125028822788627,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju84aoa3ktwn0755pfl4gfwd",
+      "iou": 0.9476590087305552,
+      "dice": 0.973126203799114,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju84dsvaklpx098750hp83x4",
+      "iou": 0.4314845451891334,
+      "dice": 0.6028490445660019,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju84ffdzkrjn08183jh1fxmb",
+      "iou": 0.09062036534635558,
+      "dice": 0.16618131886355647,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju84gpefknwm098714oq8q61",
+      "iou": 0.9384231905465288,
+      "dice": 0.9682335571748345,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju84hibuktj80871u519o71q",
+      "iou": 0.9442483438905276,
+      "dice": 0.9713248277748763,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju84ih17kp5l09876bkooocl",
+      "iou": 0.7065538158865481,
+      "dice": 0.8280475063946298,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju84jdl9kv0i0871eog9b3i9",
+      "iou": 0.692809933081002,
+      "dice": 0.8185324525123171,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju84kplnl1y30755ropua1b0",
+      "iou": 0.5412023485220216,
+      "dice": 0.7023118658507398,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju8567gdlcbq0801dwwyo2jt",
+      "iou": 0.9457936151817277,
+      "dice": 0.972141760361769,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju857ad0l88m0817qx4cwxnf",
+      "iou": 0.9208328375966687,
+      "dice": 0.958784980736593,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju858eswlepn0871pzvdrhj1",
+      "iou": 0.9777622234860084,
+      "dice": 0.9887560919862272,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju85a8h8llwm07559wxg4t5w",
+      "iou": 0.9430033071517155,
+      "dice": 0.9706656737852717,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju85bf1algsq0871y9gtlq97",
+      "iou": 0.6840575633994281,
+      "dice": 0.8123921393976508,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju85c2d4ln1b0755zz1z3onx",
+      "iou": 0.8642033419628148,
+      "dice": 0.9271556621638682,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju85citjlnfm0755i4rk5tqj",
+      "iou": 0.8863468634686347,
+      "dice": 0.9397496087636933,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju85dx63lic408017f0l0400",
+      "iou": 0.9200392927308448,
+      "dice": 0.9583546505678912,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju85fc11ljr40818edpb0inh",
+      "iou": 0.9767902439024391,
+      "dice": 0.9882588675408768,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju85hguellg50818kwu3s8d1",
+      "iou": 0.47048535987307083,
+      "dice": 0.639904854154661,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju85ia1slh220987y7c20sm2",
+      "iou": 0.899800681006561,
+      "dice": 0.9472579834320561,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju85je7vlht70817c9jcjwi4",
+      "iou": 0.8859527780469251,
+      "dice": 0.9395280606807234,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju85l4yjlops0801fvmnwptf",
+      "iou": 0.9385864797819259,
+      "dice": 0.9683204639779688,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju85mpuglq8k0818d2it6hzb",
+      "iou": 0.3534291555665696,
+      "dice": 0.5222721176249788,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju85nr8elly209872w9n5m0s",
+      "iou": 0.08179828448243882,
+      "dice": 0.15122650064392237,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju85omszllp30850b6rm9mi3",
+      "iou": 0.9408943365147038,
+      "dice": 0.9695472018371524,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju85plp7lmkw0850rx42jdpf",
+      "iou": 0.3962625128059543,
+      "dice": 0.56760460038366,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju85qefyln6v0850szeb9byi",
+      "iou": 0.9303005564626303,
+      "dice": 0.9638919217507261,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju87kbcen2av0987usezo8kn",
+      "iou": 0.07557959691939181,
+      "dice": 0.1405374314199752,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju87li0zn3yb0817kbwgjiz8",
+      "iou": 0.9707223820412579,
+      "dice": 0.9851437126682366,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju87mrypnb1e0818scv1mxxg",
+      "iou": 0.8892883345561262,
+      "dice": 0.9414003339676129,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju87nkyrnb970801q84m47yt",
+      "iou": 0.8981942916316096,
+      "dice": 0.9463670769545501,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju87ox0kncom0801b98hqnd2",
+      "iou": 0.9177621248149311,
+      "dice": 0.9571177915545678,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju87q6yoneim0871dl4phvkd",
+      "iou": 0.32459170623428935,
+      "dice": 0.4901007679673281,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju87r56lnkyp0755hz30leew",
+      "iou": 0.3927003927003927,
+      "dice": 0.563940952065019,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju87tyddnnad0755bj0wxahe",
+      "iou": 0.973145285935085,
+      "dice": 0.9863898952315676,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju87vqa0ndwg0850onjdz7ol",
+      "iou": 0.9042021113516037,
+      "dice": 0.949691323165061,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju87xn2snfmv0987sc3d9xnq",
+      "iou": 0.3058396108543494,
+      "dice": 0.46841833914695374,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju87z6o6nh73085045bzsx6o",
+      "iou": 0.9582610945788589,
+      "dice": 0.9786857301425796,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju87zv8lni0o0850hbbecbq6",
+      "iou": 0.8541666666666666,
+      "dice": 0.9213483146067416,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju8828oxnool0801qno9luhr",
+      "iou": 0.7778682398163472,
+      "dice": 0.8750572425959986,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju884985nlmx0817vzpax3y4",
+      "iou": 0.5324630711095844,
+      "dice": 0.6949114548307554,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju885ikhnmkn09878s2lqtuh",
+      "iou": 0.8461743180306055,
+      "dice": 0.9166786795444717,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju886ryxnsl50801r93jai7q",
+      "iou": 0.8582593250444049,
+      "dice": 0.923723953354999,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju887ftknop008177nnjt46y",
+      "iou": 0.8095077829196466,
+      "dice": 0.8947270529154655,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju888fr7nveu0818r9uwtiit",
+      "iou": 0.9164247972017563,
+      "dice": 0.9563900431051221,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju88aq6vo1ij0755c2ey7z7n",
+      "iou": 0.950514427062805,
+      "dice": 0.9746294760753381,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju88cddensj00987788yotmg",
+      "iou": 0.9207836000642295,
+      "dice": 0.9587582901410021,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju88evxanv9r08176zkeovec",
+      "iou": 0.8268070146918371,
+      "dice": 0.9051936061580218,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju88fpm4o0tl0871w1i6a4ds",
+      "iou": 0.9200920749753371,
+      "dice": 0.9583832848090427,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju88gx09o2vk0818610zody3",
+      "iou": 0.9377485661656968,
+      "dice": 0.9678743491693133,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju88itqbny720987hxizbj5y",
+      "iou": 0.8981896216496479,
+      "dice": 0.9463644847758295,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju88k75inzyb0850ccv5x3vk",
+      "iou": 0.40984802215330607,
+      "dice": 0.5814073796795942,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju88l66no10s0850rsda7ej1",
+      "iou": 0.8904135564542301,
+      "dice": 0.9420304392276384,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju88msmoo3470817m441j4sg",
+      "iou": 0.7456244302643573,
+      "dice": 0.8542781795869344,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju88nroho44508500129f1nh",
+      "iou": 0.9202787291838904,
+      "dice": 0.9584845316440126,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju88oh0po9gq0801nge4tgr1",
+      "iou": 0.9272934287573195,
+      "dice": 0.9622752974934594,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju88q6h6obpd0871ckmiabbo",
+      "iou": 0.13367219948120493,
+      "dice": 0.23582160617924028,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju88rl5eo94l0850kf5wtrm1",
+      "iou": 0.8140668892775746,
+      "dice": 0.8975048208963946,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju88t4fvokxf07558ymyh281",
+      "iou": 0.9249408247165816,
+      "dice": 0.9610070219719768,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju88trl3ogi208716qvti51b",
+      "iou": 0.7043239731466109,
+      "dice": 0.8265141889030072,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju88v2f9oi8w0871hx9auh01",
+      "iou": 0.9025548850943639,
+      "dice": 0.948781969093731,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju88vx2uoocy075531lc63n3",
+      "iou": 0.8951934583167132,
+      "dice": 0.9446987634832938,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju88y1mwoln50871emyfny1g",
+      "iou": 0.967856132621311,
+      "dice": 0.9836655399519113,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju88z8bson4h0871nnd7fdxo",
+      "iou": 0.9465526627597912,
+      "dice": 0.9725425680677798,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju890guyoiti098753yg6cdu",
+      "iou": 0.1430568842446096,
+      "dice": 0.25030580055366,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju8914beokbf0850isxpocrk",
+      "iou": 0.8123988547242624,
+      "dice": 0.8964901435538155,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju892fesoq2g0801n0e0jyia",
+      "iou": 0.8714033113647324,
+      "dice": 0.9312832846589933,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju893jmdompz0817xn3g1w4h",
+      "iou": 0.8630092341118957,
+      "dice": 0.9264680156277334,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju89y9h0puti0818i5yw29e6",
+      "iou": 0.9128303495311167,
+      "dice": 0.9544289693593315,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju89z6pqpqfx0817mfv8ixjc",
+      "iou": 0.21434678907339905,
+      "dice": 0.3530240142306552,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju8a1jtvpt9m081712iwkca7",
+      "iou": 0.9541964375006945,
+      "dice": 0.9765614338352363,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju8a2itsq4dv0755ntlovpxe",
+      "iou": 0.5677316024614347,
+      "dice": 0.7242714270351651,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju8a3nhbpwnb0850d37fo2na",
+      "iou": 0.9146728016359919,
+      "dice": 0.9554351018664388,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju8a56vxpy780850r45yu4wk",
+      "iou": 0.16108731863138087,
+      "dice": 0.2774766652714127,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju8a84g0q76m0818hwiggkod",
+      "iou": 0.6165249787696437,
+      "dice": 0.7627781653443898,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju8abobpqbir08189u01huru",
+      "iou": 0.9573177337233236,
+      "dice": 0.9781934912552579,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju8adb60qbiu080188mxpf8d",
+      "iou": 0.9146194876418,
+      "dice": 0.9554060151851053,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju8aeei7q8k308173n9y4klv",
+      "iou": 0.913755664652568,
+      "dice": 0.9549345107422116,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju8aj01yqeqm0850lhdz3xdw",
+      "iou": 0.9455612829324169,
+      "dice": 0.972019017059421,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju8alhigqn2h0801zksudldd",
+      "iou": 0.9556201308169812,
+      "dice": 0.9773064980853523,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju8amfdtqi4x09871tygrgqe",
+      "iou": 0.8357744623839044,
+      "dice": 0.9105415501843102,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju8ando2qqdo0818ck7i1be1",
+      "iou": 0.781391681450818,
+      "dice": 0.8772822839437866,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju8apjewqrk00801k5d71gky",
+      "iou": 0.1859629045840261,
+      "dice": 0.313606612593422,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju8aqq8uqmoq0987hphto9gg",
+      "iou": 0.8787819656978535,
+      "dice": 0.9354805206163871,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju8arof2qpf20850ifr1bnqj",
+      "iou": 0.2417012930033293,
+      "dice": 0.38930666234343886,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju8ashhnquqr0801rwduzt7d",
+      "iou": 0.8952426397966997,
+      "dice": 0.9447261485133441,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju8at3s1qqqx0850hcq8nmnq",
+      "iou": 0.035345891151444236,
+      "dice": 0.06827842067762463,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju8auylgqx0z0871u4o4db7o",
+      "iou": 0.27964574269732756,
+      "dice": 0.4370674372859953,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju8aw9n1qyg10801jkjlmors",
+      "iou": 0.3339211699382185,
+      "dice": 0.5006610247495874,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju8axq24r4an0755yhv9d4ly",
+      "iou": 0.92740648821131,
+      "dice": 0.9623361692343068,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju8ayeq7r1fb0818z1junacy",
+      "iou": 0.04965309517030555,
+      "dice": 0.0946085814423276,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju8azmhcr66e0755t61atz72",
+      "iou": 0.9505160605768304,
+      "dice": 0.974630334800455,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju8b0jr0r2oi0801jiquetd5",
+      "iou": 0.9336737407584703,
+      "dice": 0.9656993535964792,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju8b1v3br45u087189kku66u",
+      "iou": 0.7880743098778923,
+      "dice": 0.8814782534756175,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju8b2rmgr52s0801p54eyflx",
+      "iou": 0.21273536853866123,
+      "dice": 0.35083559704374095,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju8b3ka8r64u0801fh18hk7l",
+      "iou": 0.7304470127805296,
+      "dice": 0.8442292741536505,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju8b4ja9r2s808509d45ma86",
+      "iou": 0.841724736276751,
+      "dice": 0.9140613900624369,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju8b542nr81x0871uxnkm9ih",
+      "iou": 0.02595034706921575,
+      "dice": 0.050587920055482,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju8b5p40r2c60987ofa0mu03",
+      "iou": 0.8516269868340268,
+      "dice": 0.9198688427955642,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju8b6rp0r5st0850184f79xt",
+      "iou": 0.3438956948488344,
+      "dice": 0.5117892648469521,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju8b7aqtr4a00987coba14b7",
+      "iou": 0.8567590987868284,
+      "dice": 0.9228543426517944,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju8b8yair65w09878pyqtr96",
+      "iou": 0.3797952355797047,
+      "dice": 0.5505095622686915,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju8bafgqrf4x0818twisk3ea",
+      "iou": 0.24767186934309507,
+      "dice": 0.39701443212548415,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju8bbznkrf5g0871jncffynk",
+      "iou": 0.5593464351005485,
+      "dice": 0.717411375060451,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju8bff9nrfi10850fmfzbf8v",
+      "iou": 0.9191982461634827,
+      "dice": 0.9578981723237598,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju8bgdmqrksy0801tozdmraa",
+      "iou": 0.8834556989094019,
+      "dice": 0.9381220906028839,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju8bh8surexp0987o5pzklk1",
+      "iou": 0.6385418861563469,
+      "dice": 0.779402579270309,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju8bi8q7rlmn0871abc5ch8k",
+      "iou": 0.861141163742415,
+      "dice": 0.9253904867815801,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju8bj2ssrmlm0871gc2ug2rs",
+      "iou": 0.7410636442894507,
+      "dice": 0.8512769153730596,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju8bk8oirjhw0817hgkua2w8",
+      "iou": 0.8372333651703279,
+      "dice": 0.9114066629120998,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju8bljw9rqk20801kr54akrl",
+      "iou": 0.8906840462237801,
+      "dice": 0.9421817971148833,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju8bm24yrrdp081829mbo8ic",
+      "iou": 0.8696183672689766,
+      "dice": 0.9302629696982081,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju8bn7m2rmm70817hgxpb1uq",
+      "iou": 0.604804892490125,
+      "dice": 0.753742583064622,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju8bop5jrsid08716i24fqda",
+      "iou": 0.8888247660662022,
+      "dice": 0.9411405250867506,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju8bpctzrqkr0850zeldv9kt",
+      "iou": 0.10439603804111913,
+      "dice": 0.1890554374430529,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju8bqxxurs6i0850mu7mtef9",
+      "iou": 0.9326721063174866,
+      "dice": 0.9651633127717666,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju8brv16rx7f0818uf5n89pv",
+      "iou": 0.029676299418715225,
+      "dice": 0.05764199765590105,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju8bssulrrcy0987h1vq5060",
+      "iou": 0.21162266363935348,
+      "dice": 0.3493210716341374,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju8buos5rz9b08715lfr0f4f",
+      "iou": 0.9504236006051437,
+      "dice": 0.9745817270774028,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju8bw697rwg308177tg8huas",
+      "iou": 0.7003397639534639,
+      "dice": 0.8237644955442344,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju8bysfgrzkl081786jwac09",
+      "iou": 0.9457744674981774,
+      "dice": 0.9721316455696203,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju8bzzy2s66m08016z6mouqt",
+      "iou": 0.6614962079835212,
+      "dice": 0.7962656848748967,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju8c1a0ws7o208181c6lbsom",
+      "iou": 0.6404674257340981,
+      "dice": 0.7808352859521038,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju8c2rqzs5t80850d0zky5dy",
+      "iou": 0.8829903236897687,
+      "dice": 0.9378596507702983,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju8c3xs7sauj0801ieyzezr5",
+      "iou": 0.785856162616726,
+      "dice": 0.8800889781238038,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju8c5223s8j80850b4kealt4",
+      "iou": 0.07962059435668224,
+      "dice": 0.14749736115237053,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju8c5mxls96t0850wvkvsity",
+      "iou": 0.9172474489189125,
+      "dice": 0.9568378348200439,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju8c5zcbsdfz0801o5t6jag1",
+      "iou": 0.8000889976638114,
+      "dice": 0.8889438230022866,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju8c6hnxsdvr0801wn0vrsa6",
+      "iou": 0.01359552288598428,
+      "dice": 0.026826327818169717,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju8c82iosagu0817l74s4m5g",
+      "iou": 0.8760180865364571,
+      "dice": 0.9339121971406784,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju8c9akjsdjj0850s67uzlxq",
+      "iou": 0.9473449228451042,
+      "dice": 0.9729605800507258,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju8ca4geseia0850i2ru11hw",
+      "iou": 0.10471516841894497,
+      "dice": 0.18957858353445453,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju8cattbsivm0818p446wgel",
+      "iou": 0.48937361236662646,
+      "dice": 0.6571535957173404,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju8cbsyssiqj0871gr4jedjp",
+      "iou": 0.8491937759065952,
+      "dice": 0.9184475818282106,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju8cdeazsm8h0801jxifmzur",
+      "iou": 0.9604457842331232,
+      "dice": 0.9798238665486231,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju8ceacrsqkr0755hdz145es",
+      "iou": 0.9514810103579866,
+      "dice": 0.9751373498463544,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju8cgi2kspp308011nxdtjp6",
+      "iou": 0.9092037228541882,
+      "dice": 0.9524428555952767,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju8chdlqsu620755azjty1tj",
+      "iou": 0.8461294964028777,
+      "dice": 0.9166523779090612,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju8chxndsre008015uisl4si",
+      "iou": 0.9158294033217141,
+      "dice": 0.9560657141328196,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju8cj10qsrau0871o2dr6ai1",
+      "iou": 0.9000213903743316,
+      "dice": 0.947380271542116,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju8clorgsuwn08714toqb7v6",
+      "iou": 0.9159888782059611,
+      "dice": 0.9561526046681947,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju8cwy02t9eq08185qn12c02",
+      "iou": 0.15879055655772686,
+      "dice": 0.27406256576585497,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju8czvnztbf40871b4m7t78w",
+      "iou": 0.9047107800175285,
+      "dice": 0.9499718167282097,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju8d2q30tfhs0801n7lx77xl",
+      "iou": 0.9421507947671965,
+      "dice": 0.9702138446774222,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju8d4jgatgpj0871q2ophhkm",
+      "iou": 0.8855244029075805,
+      "dice": 0.9392871304577698,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju8dic9mtppa0987swn23wbc",
+      "iou": 0.9170318837667801,
+      "dice": 0.9567205340006157,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju8djdqztu6408506pzhlo18",
+      "iou": 0.9598863559494013,
+      "dice": 0.9795326683463915,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju8dk7eztzup08182yxko5zh",
+      "iou": 0.90797137626893,
+      "dice": 0.9517662450937636,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju8dm2cau2km0818jsv9eeq2",
+      "iou": 0.9673084088933052,
+      "dice": 0.9833825794883451,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju8dn0c3u2v50801k8rvq02f",
+      "iou": 0.8919677485201062,
+      "dice": 0.9428995279838166,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju8doa16u5gh0818w1ywda3q",
+      "iou": 0.8636452598033242,
+      "dice": 0.9268343911055983,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju8dpa89u6l80818dj6lldh9",
+      "iou": 0.5288928790275462,
+      "dice": 0.6918638791279466,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cju8dqkrqu83i0818ev74qpxq",
+      "iou": 0.8923560753448886,
+      "dice": 0.9431164535799675,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cjyzjzssvd8pq0838f4nolj5l",
+      "iou": 0.04915493154317455,
+      "dice": 0.09370385643781677,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cjyzk8qieoboa0848ogj51wwm",
+      "iou": 0.7172590139808683,
+      "dice": 0.8353533254347607,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cjyzkmjy8evns070165gf9dmq",
+      "iou": 0.8642435615694215,
+      "dice": 0.9271788079470199,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cjyzkpsbjdsjq07211dfi4sru",
+      "iou": 0.32866526624654063,
+      "dice": 0.49472997390082313,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cjyzl833ndne80838pzuq6ila",
+      "iou": 0.6077168128993219,
+      "dice": 0.7559998228834574,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cjyzlw7f9faqr070129au64sq",
+      "iou": 0.9352826217678893,
+      "dice": 0.9665592107818387,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cjyztzaqtrv430848l8xgcerw",
+      "iou": 0.9294770662275298,
+      "dice": 0.9634497165025365,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cjyzu3reghjya0794w7pwoi50",
+      "iou": 0.6864867865867199,
+      "dice": 0.8141027751259177,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cjyzu9th0qt4r0a46pyl4zik0",
+      "iou": 0.6519397841227293,
+      "dice": 0.7893021166857425,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cjyzufihqquiw0a46jatrbwln",
+      "iou": 0.5701950651833585,
+      "dice": 0.7262729043372383,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cjyzuio1qgh040763k56deohv",
+      "iou": 0.92694309818704,
+      "dice": 0.9620866325104798,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cjyzul1qggwwj07216mhiv5sy",
+      "iou": 0.8971695762987947,
+      "dice": 0.9457979797979797,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cjyzurzvohqnr0794es1itzek",
+      "iou": 0.968648280999498,
+      "dice": 0.9840744945132686,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "cjz14qsk2wci60794un9ozwmw",
+      "iou": 0.9741754416499869,
+      "dice": 0.9869188128850244,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "ck2395w2mb4vu07480otsu6tw",
+      "iou": 0.8496542451018056,
+      "dice": 0.9187168329992834,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "ck2bxiswtxuw80838qkisqjwz",
+      "iou": 0.529575393391542,
+      "dice": 0.6924475847082104,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "ck2bxknhjvs1x0794iogrq49k",
+      "iou": 0.9058669001751314,
+      "dice": 0.9506087755570871,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "ck2bxlujamu330725szlc2jdu",
+      "iou": 0.9155607751027598,
+      "dice": 0.9559193182514867,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "ck2bxpfgxu2mk0748gsh7xelu",
+      "iou": 0.5790603516208799,
+      "dice": 0.7334239644817676,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "ck2bxqz3evvg20794iiyv5v2m",
+      "iou": 0.130812807970818,
+      "dice": 0.23136067622996678,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "ck2bxskgxxzfv08386xkqtqdy",
+      "iou": 0.0849266168817873,
+      "dice": 0.1565573478616957,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "ck2bxw18mmz1k0725litqq2mc",
+      "iou": 0.36625287077990626,
+      "dice": 0.5361421426632919,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    },
+    {
+      "name": "ck2da7fwcjfis07218r1rvm95",
+      "iou": 0.054644770228362,
+      "dice": 0.10362687375111106,
+      "auc": null,
+      "rounds": null,
+      "negatives": null
+    }
+  ]
+}
